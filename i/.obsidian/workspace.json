@@ -13,24 +13,10 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Welcome.md",
+                "file": "欲しいものor買ったものリスト/Shure SD588.md",
                 "mode": "source",
                 "source": false
               }
-            }
-          }
-        ]
-      },
-      {
-        "id": "530aceaa2946be42",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "a9ac3b526e191ade",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
             }
           }
         ]
@@ -99,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Welcome.md",
+                "file": "欲しいものor買ったものリスト/Shure SD588.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Welcome.md",
+                "file": "欲しいものor買ったものリスト/Shure SD588.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Welcome.md"
+                "file": "欲しいものor買ったものリスト/Shure SD588.md"
               }
             }
           }
@@ -160,9 +146,12 @@
       "command-palette:コマンドパレットを開く": false
     }
   },
-  "active": "275d42c3c11366f5",
+  "active": "4911051911ab3c9c",
   "lastOpenFiles": [
-    "欲しいものリスト",
-    "Welcome.md"
+    "create a link.md",
+    "欲しいものor買ったものリスト/Shure SD588.md",
+    "Welcome.md",
+    "欲しいものor買ったものリスト/無題のフォルダ",
+    "欲しいものor買ったものリスト"
   ]
 }
