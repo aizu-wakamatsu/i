@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "欲しいものor買ったものリスト/Shure SD588.md",
+                "file": "欲しいものor買ったものリスト/買ったもの/Shure 588SD.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "欲しいものor買ったものリスト/Shure SD588.md",
+                "file": "欲しいものor買ったものリスト/買ったもの/Shure 588SD.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "欲しいものor買ったものリスト/Shure SD588.md",
+                "file": "欲しいものor買ったものリスト/買ったもの/Shure 588SD.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "欲しいものor買ったものリスト/Shure SD588.md"
+                "file": "欲しいものor買ったものリスト/買ったもの/Shure 588SD.md"
               }
             }
           }
@@ -148,10 +148,12 @@
   },
   "active": "4911051911ab3c9c",
   "lastOpenFiles": [
+    "欲しいものor買ったものリスト/買ったもの/Dell P2715Q.md",
+    "欲しいものor買ったものリスト/買ったもの/Shure 588SD.md",
+    "欲しいものor買ったものリスト/欲しいもの",
     "create a link.md",
-    "欲しいものor買ったものリスト/Shure SD588.md",
     "Welcome.md",
-    "欲しいものor買ったものリスト/無題のフォルダ",
+    "欲しいものor買ったものリスト/買ったもの",
     "欲しいものor買ったものリスト"
   ]
 }
