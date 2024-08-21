@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "欲しいものor買ったものリスト/買ったもの/Shure 588SD.md",
+                "file": "欲しいものor買ったものリスト/買ったor持っているもの/Dell E2013H.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "欲しいものor買ったものリスト/買ったもの/Shure 588SD.md",
+                "file": "欲しいものor買ったものリスト/買ったor持っているもの/Dell E2013H.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "欲しいものor買ったものリスト/買ったもの/Shure 588SD.md",
+                "file": "欲しいものor買ったものリスト/買ったor持っているもの/Dell E2013H.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "欲しいものor買ったものリスト/買ったもの/Shure 588SD.md"
+                "file": "欲しいものor買ったものリスト/買ったor持っているもの/Dell E2013H.md"
               }
             }
           }
@@ -148,12 +148,15 @@
   },
   "active": "4911051911ab3c9c",
   "lastOpenFiles": [
-    "欲しいものor買ったものリスト/買ったもの/Dell P2715Q.md",
-    "欲しいものor買ったものリスト/買ったもの/Shure 588SD.md",
+    "欲しいものor買ったものリスト/買ったor持っているもの/Dell P2715Q.md",
+    "欲しいものor買ったものリスト/買ったor持っているもの/Logicool G810 G910.md",
+    "欲しいものor買ったものリスト/買ったor持っているもの/Logicool LS21.md",
+    "欲しいものor買ったものリスト/買ったor持っているもの/Shure 588SD.md",
+    "欲しいものor買ったものリスト/買ったor持っているもの/Dell E2013H.md",
     "欲しいものor買ったものリスト/欲しいもの",
     "create a link.md",
     "Welcome.md",
-    "欲しいものor買ったものリスト/買ったもの",
+    "欲しいものor買ったものリスト/買ったor持っているもの",
     "欲しいものor買ったものリスト"
   ]
 }
