@@ -1,169 +1,185 @@
 {
-  "main": {
-    "id": "5fde027161336133",
-    "type": "split",
-    "children": [
-      {
-        "id": "4c2a487b5fdc6f3b",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "4911051911ab3c9c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "専門/非接触センシング.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
+    "main": {
+        "id": "5fde027161336133",
+        "type": "split",
+        "children": [{
+            "id": "98c0052e1e238650",
+            "type": "tabs",
+            "children": [{
+                    "id": "23069920763f98ef",
+                    "type": "leaf",
+                    "state": {
+                        "type": "markdown",
+                        "state": {
+                            "file": "専門/国産医療機器.md",
+                            "mode": "source",
+                            "source": false
+                        }
+                    }
+                },
+                {
+                    "id": "23244abf5e43ffc5",
+                    "type": "leaf",
+                    "state": {
+                        "type": "markdown",
+                        "state": {
+                            "file": "専門/医療機器のクラス.md",
+                            "mode": "source",
+                            "source": false
+                        }
+                    }
+                }
+            ]
+        }],
+        "direction": "vertical"
+    },
+    "left": {
+        "id": "4afb76b0a208c29a",
+        "type": "split",
+        "children": [{
+            "id": "c8a24cc1147b8880",
+            "type": "tabs",
+            "children": [{
+                    "id": "275d42c3c11366f5",
+                    "type": "leaf",
+                    "state": {
+                        "type": "file-explorer",
+                        "state": {
+                            "sortOrder": "alphabetical"
+                        }
+                    }
+                },
+                {
+                    "id": "da031d312462ecb3",
+                    "type": "leaf",
+                    "state": {
+                        "type": "search",
+                        "state": {
+                            "query": "",
+                            "matchingCase": false,
+                            "explainSearch": false,
+                            "collapseAll": false,
+                            "extraContext": false,
+                            "sortOrder": "alphabetical"
+                        }
+                    }
+                },
+                {
+                    "id": "b0a6a0fc431b66fe",
+                    "type": "leaf",
+                    "state": {
+                        "type": "bookmarks",
+                        "state": {}
+                    }
+                }
+            ]
+        }],
+        "direction": "horizontal",
+        "width": 300
+    },
+    "right": {
+        "id": "1a6ae77530a85cde",
+        "type": "split",
+        "children": [{
+            "id": "a59bcd7f87a5d0b1",
+            "type": "tabs",
+            "children": [{
+                    "id": "90fbf911f5afa2d6",
+                    "type": "leaf",
+                    "state": {
+                        "type": "backlink",
+                        "state": {
+                            "file": "専門/医療機器のクラス.md",
+                            "collapseAll": false,
+                            "extraContext": false,
+                            "sortOrder": "alphabetical",
+                            "showSearch": false,
+                            "searchQuery": "",
+                            "backlinkCollapsed": true,
+                            "unlinkedCollapsed": false
+                        }
+                    }
+                },
+                {
+                    "id": "d0caa78869fe2ae0",
+                    "type": "leaf",
+                    "state": {
+                        "type": "outgoing-link",
+                        "state": {
+                            "file": "専門/医療機器のクラス.md",
+                            "linksCollapsed": false,
+                            "unlinkedCollapsed": true
+                        }
+                    }
+                },
+                {
+                    "id": "d858789b36f43dbc",
+                    "type": "leaf",
+                    "state": {
+                        "type": "tag",
+                        "state": {
+                            "sortOrder": "frequency",
+                            "useHierarchy": true
+                        }
+                    }
+                },
+                {
+                    "id": "f309f73ae0b4a998",
+                    "type": "leaf",
+                    "state": {
+                        "type": "outline",
+                        "state": {
+                            "file": "専門/医療機器のクラス.md"
+                        }
+                    }
+                }
+            ]
+        }],
+        "direction": "horizontal",
+        "width": 300
+    },
+    "left-ribbon": {
+        "hiddenItems": {
+            "switcher:クイックスイッチャーを開く": false,
+            "graph:グラフビューを開く": false,
+            "canvas:新規キャンバスを作成": false,
+            "daily-notes:今日のデイリーノートを開く": false,
+            "templates:テンプレートを挿入": false,
+            "command-palette:コマンドパレットを開く": false
+        }
+    },
+    <<
+    << << < HEAD "active": "4911051911ab3c9c",
+    "lastOpenFiles": [
+        "無題のファイル 1.canvas",
+        "無題のファイル.canvas",
+        "専門/非接触センシング.md",
+        "専門/非侵襲性.md",
+        "system Obsidians/Welcome.md",
+        "system Obsidians", ===
+        === =
+        "active": "23244abf5e43ffc5",
+        "lastOpenFiles": [
+            "専門/国産医療機器.md",
+            "専門/医療機器のクラス.md",
+            "専門/特許.md",
+            "専門/生命倫理.md",
+            "欲しいものor買ったものリスト/買ったor持っているもの/リスト.md",
+            "専門/非侵襲性.md",
+            "専門/非接触センシング.md",
+            "欲しいものor買ったものリスト/買ったor持っているもの/Dell P2715Q.md",
+            "欲しいものor買ったものリスト/買ったor持っているもの/Dell E2013H.md", >>>
+            >>> > 9 c56606e2209e14c30dc587f5326da7255e16e15 "system Obsidians/create a link.md",
+            "system Obsidians/Welcome.md",
+            "欲しいものor買ったものリスト/買ったor持っているもの/Shure 588SD.md",
+            "system Obsidians",
+            "欲しいものor買ったものリスト/買ったor持っているもの/Yamaha NVR500.md",
+            "ことばの意味.md",
+            "専門",
+            "欲しいものor買ったものリスト/買ったor持っているもの/Logicool LS21.md",
+            "欲しいものor買ったものリスト/買ったor持っているもの/Logicool G810 G910.md",
+            "欲しいものor買ったものリスト/欲しいもの",
+            "欲しいものor買ったものリスト/買ったor持っているもの",
+            "欲しいものor買ったものリスト"
         ]
-      }
-    ],
-    "direction": "vertical"
-  },
-  "left": {
-    "id": "4afb76b0a208c29a",
-    "type": "split",
-    "children": [
-      {
-        "id": "c8a24cc1147b8880",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "275d42c3c11366f5",
-            "type": "leaf",
-            "state": {
-              "type": "file-explorer",
-              "state": {
-                "sortOrder": "alphabetical"
-              }
-            }
-          },
-          {
-            "id": "da031d312462ecb3",
-            "type": "leaf",
-            "state": {
-              "type": "search",
-              "state": {
-                "query": "",
-                "matchingCase": false,
-                "explainSearch": false,
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical"
-              }
-            }
-          },
-          {
-            "id": "b0a6a0fc431b66fe",
-            "type": "leaf",
-            "state": {
-              "type": "bookmarks",
-              "state": {}
-            }
-          }
-        ]
-      }
-    ],
-    "direction": "horizontal",
-    "width": 300
-  },
-  "right": {
-    "id": "1a6ae77530a85cde",
-    "type": "split",
-    "children": [
-      {
-        "id": "a59bcd7f87a5d0b1",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "90fbf911f5afa2d6",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "専門/非接触センシング.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
-            "id": "d0caa78869fe2ae0",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "専門/非接触センシング.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
-            "id": "d858789b36f43dbc",
-            "type": "leaf",
-            "state": {
-              "type": "tag",
-              "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": true
-              }
-            }
-          },
-          {
-            "id": "f309f73ae0b4a998",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "専門/非接触センシング.md"
-              }
-            }
-          }
-        ]
-      }
-    ],
-    "direction": "horizontal",
-    "width": 300
-  },
-  "left-ribbon": {
-    "hiddenItems": {
-      "switcher:クイックスイッチャーを開く": false,
-      "graph:グラフビューを開く": false,
-      "canvas:新規キャンバスを作成": false,
-      "daily-notes:今日のデイリーノートを開く": false,
-      "templates:テンプレートを挿入": false,
-      "command-palette:コマンドパレットを開く": false
     }
-  },
-  "active": "4911051911ab3c9c",
-  "lastOpenFiles": [
-    "無題のファイル 1.canvas",
-    "無題のファイル.canvas",
-    "専門/非接触センシング.md",
-    "専門/非侵襲性.md",
-    "system Obsidians/Welcome.md",
-    "system Obsidians",
-    "system Obsidians/create a link.md",
-    "欲しいものor買ったものリスト/買ったor持っているもの/Yamaha NVR500.md",
-    "ことばの意味.md",
-    "専門",
-    "欲しいものor買ったものリスト/買ったor持っているもの/Logicool LS21.md",
-    "欲しいものor買ったものリスト/買ったor持っているもの/Shure 588SD.md",
-    "欲しいものor買ったものリスト/買ったor持っているもの/Dell E2013H.md",
-    "欲しいものor買ったものリスト/買ったor持っているもの/Dell P2715Q.md",
-    "欲しいものor買ったものリスト/買ったor持っているもの/Logicool G810 G910.md",
-    "欲しいものor買ったものリスト/欲しいもの",
-    "欲しいものor買ったものリスト/買ったor持っているもの",
-    "欲しいものor買ったものリスト"
-  ]
-}
