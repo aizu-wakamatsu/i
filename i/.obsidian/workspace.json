@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "研究計画書ベース.md",
+                "file": "口頭試問・研究計画書.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "研究計画書ベース.md",
+                "file": "口頭試問・研究計画書.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "研究計画書ベース.md",
+                "file": "口頭試問・研究計画書.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "研究計画書ベース.md"
+                "file": "口頭試問・研究計画書.md"
               }
             }
           }
@@ -173,9 +173,9 @@
   "active": "2ddfef2a099fa418",
   "lastOpenFiles": [
     "小論文 構成.md",
-    "研究計画書ベース.md",
-    "ことばの意味と語源.md",
     "大学院科目 e 会津大.md",
+    "ことばの意味と語源.md",
+    "口頭試問・研究計画書.md",
     "専門/国産医療機器.md",
     "専門/医療機器のクラス.md",
     "専門/生命倫理.md",
