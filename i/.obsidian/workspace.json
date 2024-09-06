@@ -1,43 +1,43 @@
 {
   "main": {
-    "id": "5fde027161336133",
+    "id": "006b5f45413c9faa",
     "type": "split",
     "children": [
       {
-        "id": "6ff76a201c74d48c",
+        "id": "cd6edeef29098b91",
         "type": "tabs",
         "children": [
           {
-            "id": "a7467749b6054512",
+            "id": "4179e81a8c75cb85",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "大学院科目 e 会津大.md",
+                "file": "専門/インフォームド・コンセント.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "b4fd68897672ecec",
+            "id": "a65fc1407706a859",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "専門/生命倫理.md",
+                "file": "専門/インフォームド・コンセント.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "2ddfef2a099fa418",
+            "id": "caa03b42863b760f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "口頭試問・研究計画書.md",
+                "file": "火星や月に移住.md",
                 "mode": "source",
                 "source": false
               }
@@ -50,15 +50,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "4afb76b0a208c29a",
+    "id": "624b98c0ee5bac12",
     "type": "split",
     "children": [
       {
-        "id": "c8a24cc1147b8880",
+        "id": "1915d4ab9a371d73",
         "type": "tabs",
         "children": [
           {
-            "id": "275d42c3c11366f5",
+            "id": "30cfc44319219d0e",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -68,7 +68,7 @@
             }
           },
           {
-            "id": "da031d312462ecb3",
+            "id": "c5d917059fb92264",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -83,7 +83,7 @@
             }
           },
           {
-            "id": "b0a6a0fc431b66fe",
+            "id": "b5d5586baf4b35b8",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -97,44 +97,44 @@
     "width": 300
   },
   "right": {
-    "id": "1a6ae77530a85cde",
+    "id": "2619de59a9bd65cc",
     "type": "split",
     "children": [
       {
-        "id": "a59bcd7f87a5d0b1",
+        "id": "aaa4e843eafb5995",
         "type": "tabs",
         "children": [
           {
-            "id": "90fbf911f5afa2d6",
+            "id": "bb42e41420b8611d",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "口頭試問・研究計画書.md",
+                "file": "火星や月に移住.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
-                "backlinkCollapsed": true,
-                "unlinkedCollapsed": false
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "d0caa78869fe2ae0",
+            "id": "17a23469000ed4d8",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "口頭試問・研究計画書.md",
+                "file": "火星や月に移住.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "d858789b36f43dbc",
+            "id": "d93aacf9a2c2afa9",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -145,12 +145,12 @@
             }
           },
           {
-            "id": "f309f73ae0b4a998",
+            "id": "6daa29e8c50f5f38",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "口頭試問・研究計画書.md"
+                "file": "火星や月に移住.md"
               }
             }
           }
@@ -158,7 +158,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -167,40 +168,24 @@
       "canvas:新規キャンバスを作成": false,
       "daily-notes:今日のデイリーノートを開く": false,
       "templates:テンプレートを挿入": false,
-      "command-palette:コマンドパレットを開く": false
+      "command-palette:コマンドパレットを開く": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2ddfef2a099fa418",
+  "active": "caa03b42863b760f",
   "lastOpenFiles": [
-    "小論文 構成.md",
-    "大学院科目 e 会津大.md",
-    "ことばの意味と語源.md",
-    "口頭試問・研究計画書.md",
-    "専門/国産医療機器.md",
-    "専門/医療機器のクラス.md",
-    "専門/生命倫理.md",
-    "無題のフォルダ 1",
-    "無題のフォルダ",
-    "無題のファイル.canvas",
-    "専門/特許.md",
     "専門/インフォームド・コンセント.md",
+    "火星や月に移住.md",
+    "専門/生命倫理.md",
+    "専門/特許.md",
     "専門/非侵襲性.md",
     "専門/非接触センシング.md",
-    "無題のファイル 1.md",
-    "欲しいものor買ったものリスト/買ったor持っているもの/リスト.md",
-    "欲しいものor買ったものリスト/買ったor持っているもの/Dell P2715Q.md",
-    "欲しいものor買ったものリスト/買ったor持っているもの/Dell E2013H.md",
-    "system Obsidians/create a link.md",
-    "system Obsidians/Welcome.md",
-    "欲しいものor買ったものリスト/買ったor持っているもの/Shure 588SD.md",
-    "system Obsidians",
-    "欲しいものor買ったものリスト/買ったor持っているもの/Yamaha NVR500.md",
-    "ことばの意味.md",
-    "専門",
-    "欲しいものor買ったものリスト/買ったor持っているもの/Logicool LS21.md",
-    "欲しいものor買ったものリスト/買ったor持っているもの/Logicool G810 G910.md",
-    "欲しいものor買ったものリスト/欲しいもの",
-    "欲しいものor買ったものリスト/買ったor持っているもの",
-    "欲しいものor買ったものリスト"
+    "小論文 構成.md",
+    "口頭試問・研究計画書.md",
+    "無題のファイル.canvas",
+    "ことばの意味と語源.md",
+    "大学院科目 e 会津大.md",
+    "専門/国産医療機器.md",
+    "専門/医療機器のクラス.md"
   ]
 }
