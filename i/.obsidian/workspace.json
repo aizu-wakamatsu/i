@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "専門/特許.md",
+                "file": "専門/インフォームド・コンセント.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "de7118bb8660a2b8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "院試振り返り.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "専門/特許.md",
+                "file": "院試振り返り.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "専門/特許.md",
+                "file": "院試振り返り.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "専門/特許.md"
+                "file": "院試振り返り.md"
               }
             }
           }
@@ -147,15 +160,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a65fc1407706a859",
+  "active": "de7118bb8660a2b8",
   "lastOpenFiles": [
+    "専門/インフォームド・コンセント.md",
+    "院試振り返り.md",
+    "専門/非接触センシング.md",
+    "専門/特許.md",
     "専門/非侵襲性.md",
     "専門/国産医療機器.md",
     "専門/生命倫理.md",
     "専門/医療機器のクラス.md",
-    "専門/インフォームド・コンセント.md",
-    "専門/非接触センシング.md",
-    "専門/特許.md",
     "小論文 構成.md",
     "大学院科目 e 会津大.md",
     "無題のファイル.canvas",
