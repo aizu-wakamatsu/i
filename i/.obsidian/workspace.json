@@ -4,35 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "cd6edeef29098b91",
+        "id": "c73fbb0d09f57893",
         "type": "tabs",
         "children": [
           {
-            "id": "4179e81a8c75cb85",
+            "id": "a9a6fae21f6e4af3",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "専門/インフォームド・コンセント.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a65fc1407706a859",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "専門/インフォームド・コンセント.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "専門/インフォームド・コンセント.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "専門/インフォームド・コンセント.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "専門/インフォームド・コンセント.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -160,11 +139,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a65fc1407706a859",
+  "active": "a9a6fae21f6e4af3",
   "lastOpenFiles": [
+    "専門/インフォームド・コンセント.md",
     "火星や月に移住.md",
     "院試振り返り.md",
-    "専門/インフォームド・コンセント.md",
     "専門/生命倫理.md",
     "専門/特許.md",
     "専門/非侵襲性.md",
