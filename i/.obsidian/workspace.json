@@ -11,8 +11,12 @@
             "id": "a9a6fae21f6e4af3",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "9.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "9.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "9.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "9.md"
+              }
             }
           }
         ]
@@ -141,6 +149,7 @@
   },
   "active": "a9a6fae21f6e4af3",
   "lastOpenFiles": [
+    "9.md",
     "専門/インフォームド・コンセント.md",
     "火星や月に移住.md",
     "院試振り返り.md",
