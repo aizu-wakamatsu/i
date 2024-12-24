@@ -12,7 +12,9 @@
             "type": "leaf",
             "state": {
               "type": "empty",
-              "state": {}
+              "state": {},
+              "icon": "lucide-file",
+              "title": "新規タブ"
             }
           }
         ]
@@ -35,7 +37,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "ファイルエクスプローラ"
             }
           },
           {
@@ -50,7 +54,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "検索"
             }
           },
           {
@@ -58,7 +64,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "ブックマーク"
             }
           }
         ]
@@ -81,7 +89,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "本　メモ/9.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,7 +96,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "バックリンク"
             }
           },
           {
@@ -98,10 +107,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "本　メモ/9.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "アウトゴーイングリンク"
             }
           },
           {
@@ -112,7 +122,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "タグ"
             }
           },
           {
@@ -120,17 +132,27 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "本　メモ/9.md"
-              }
+              "state": {},
+              "icon": "lucide-list",
+              "title": "アウトライン"
+            }
+          },
+          {
+            "id": "fa848295c4612f98",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -143,7 +165,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "30cfc44319219d0e",
+  "active": "67b3223f05c76e4e",
   "lastOpenFiles": [
     "本　メモ",
     "本　メモ.md",
