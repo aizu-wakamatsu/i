@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "本　メモ/借りた.md",
+                "file": "ひっこし/無題のファイル.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "借りた"
+              "title": "無題のファイル"
             }
           }
         ]
@@ -169,8 +169,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "fa848295c4612f98",
+  "active": "67b3223f05c76e4e",
   "lastOpenFiles": [
+    "ひっこし/引っ越しにあわせて買うもの.md",
+    "ひっこし/無題のファイル.md",
+    "ひっこし/梱包.md",
     "本　メモ/借りた.md",
     "本　メモ",
     "本　メモ.md",
