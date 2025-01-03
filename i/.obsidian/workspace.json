@@ -11,10 +11,14 @@
             "id": "06c388b503fbc307",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "ひっこし/引っ越しにあわせて買うもの.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "新規タブ"
+              "title": "引っ越しにあわせて買うもの"
             }
           }
         ]
@@ -167,11 +171,11 @@
   },
   "active": "06c388b503fbc307",
   "lastOpenFiles": [
+    "ひっこし/処分.md",
     "無題のフォルダ/1月.md",
     "ひっこし/引っ越しにあわせて買うもの.md",
     "ひっこし/梱包.md",
     "ひっこし/手続き.md",
-    "ひっこし/処分.md",
     "無題のフォルダ",
     "本　メモ/借りた.md",
     "本　メモ",
