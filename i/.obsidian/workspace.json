@@ -1,0 +1,205 @@
+{
+  "main": {
+    "id": "006b5f45413c9faa",
+    "type": "split",
+    "children": [
+      {
+        "id": "2316a2ba0fb0fb25",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "06c388b503fbc307",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "日記/1月.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "1月"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "624b98c0ee5bac12",
+    "type": "split",
+    "children": [
+      {
+        "id": "1915d4ab9a371d73",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "30cfc44319219d0e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "ファイルエクスプローラ"
+            }
+          },
+          {
+            "id": "c5d917059fb92264",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "検索"
+            }
+          },
+          {
+            "id": "b5d5586baf4b35b8",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "ブックマーク"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "2619de59a9bd65cc",
+    "type": "split",
+    "children": [
+      {
+        "id": "aaa4e843eafb5995",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bb42e41420b8611d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "バックリンク"
+            }
+          },
+          {
+            "id": "17a23469000ed4d8",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "アウトゴーイングリンク"
+            }
+          },
+          {
+            "id": "d93aacf9a2c2afa9",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "タグ"
+            }
+          },
+          {
+            "id": "6daa29e8c50f5f38",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {},
+              "icon": "lucide-list",
+              "title": "アウトライン"
+            }
+          },
+          {
+            "id": "fa848295c4612f98",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:クイックスイッチャーを開く": false,
+      "graph:グラフビューを開く": false,
+      "canvas:新規キャンバスを作成": false,
+      "daily-notes:今日のデイリーノートを開く": false,
+      "templates:テンプレートを挿入": false,
+      "command-palette:コマンドパレットを開く": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "06c388b503fbc307",
+  "lastOpenFiles": [
+    "日記/2月.md",
+    "本　メモ/借りた.md",
+    "本　メモ/作曲少女～平凡な私が14日間で曲を作れるようになった話～.md",
+    "日記/1月.md",
+    "ひっこし/引っ越しにあわせて買うもの.md",
+    "ひっこし/梱包.md",
+    "ひっこし/処分.md",
+    "ひっこし/手続き.md",
+    "本　メモ/9.md",
+    "大学院/口頭試問・研究計画書.md",
+    "大学院/院試振り返り.md",
+    "大学院/医療機器のクラス.md",
+    "大学院/ことばの意味と語源.md",
+    "大学院/インフォームド・コンセント.md",
+    "会津飯/黄鶴楼.md",
+    "会津飯",
+    "日記",
+    "本　メモ",
+    "本　メモ.md",
+    "火星や月に移住.md",
+    "院試振り返り.md",
+    "大学院/生命倫理.md",
+    "大学院/特許.md",
+    "大学院/非侵襲性.md",
+    "大学院/非接触センシング.md",
+    "小論文 構成.md",
+    "口頭試問・研究計画書.md",
+    "無題のファイル.canvas",
+    "ことばの意味と語源.md",
+    "大学院科目 e 会津大.md"
+  ]
+}
