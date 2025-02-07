@@ -1,4 +1,5 @@
  Reverse Address Resolution Protocol
  MACアドレスからIPアドレスを調べる
  自分のMACアドレスを使って、自分がどのIPアドレスを使えばいいかを調べる
- RARPリクエストはブロードキャストで送信 RARPサーバ
+ RARPリクエストは[[ブロードキャスト]]で送信
+ RARPサーバ

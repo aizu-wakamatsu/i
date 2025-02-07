@@ -25,10 +25,14 @@
             "id": "77d12adec8bb84d6",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "グラフビュー"
+              "type": "markdown",
+              "state": {
+                "file": "ntwkx/ブロードキャスト.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "ブロードキャスト"
             }
           }
         ],
@@ -105,6 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "ntwkx/ブロードキャスト.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +119,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "バックリンク"
+              "title": "ブロードキャストへのバックリンク"
             }
           },
           {
@@ -123,11 +128,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "ntwkx/ブロードキャスト.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "アウトゴーイングリンク"
+              "title": "ブロードキャストからのアウトゴーイングリンク"
             }
           },
           {
@@ -151,12 +157,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "ntwkx/ブロードキャスト.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "アウトライン"
+              "title": "ブロードキャストのアウトライン"
             }
           },
           {
@@ -199,13 +206,21 @@
   },
   "active": "77d12adec8bb84d6",
   "lastOpenFiles": [
+    "ntwkx/マルチキャスト.md",
+    "i/日記/2月.md",
+    "ntwkx/ブロードキャスト.md",
+    "ntwkx/エニーキャスト.md",
     "ntwkx/RARP.md",
     "ntwkx/OSI参照モデル.md",
+    "無題のフォルダ/Gaming Keyboard.md",
+    "i/system Obsidians/Welcome.md",
+    "i/properties/Welcome.md",
+    "ntwkx/ユニキャスト.md",
+    "i/日記/3月.md",
+    "i/会津飯/ファットリアこもと.md",
     "i/ひっこし/引っ越しにあわせて買うもの.md",
     "自宅.md",
-    "ntwkx/マルチキャスト.md",
     "ntwkx",
-    "無題のフォルダ/Gaming Keyboard.md",
     "無題のフォルダ",
     "i/ひっこし/処分.md",
     "i/ひっこし/梱包.md",
@@ -217,6 +232,6 @@
     "i/専門/院試振り返り.md",
     "i/本　メモ/9.md",
     "i/専門/ことばの意味と語源.md",
-    "properties/欲しいものor買ったものリスト/買ったor持っているもの/Dell E2013H.md"
+    "i/properties/欲しいものor買ったものリスト/買ったor持っているもの/Dell E2013H.md"
   ]
 }
