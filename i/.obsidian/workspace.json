@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "日記/2月.md",
+                "file": "日記/3月.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2月"
+              "title": "3月"
             }
           }
         ],
@@ -187,8 +187,18 @@
   },
   "active": "069b851f6fea29e0",
   "lastOpenFiles": [
-    "日記/1月.md",
     "日記/2月.md",
+    "properties/欲しいものor買ったものリスト/買ったor持っているもの/リスト.md",
+    "properties/欲しいものor買ったものリスト/買ったor持っているもの/Yamaha NVR500.md",
+    "properties/欲しいものor買ったものリスト/買ったor持っているもの/Shure 588SD.md",
+    "properties/欲しいものor買ったものリスト/買ったor持っているもの/Logicool LS21.md",
+    "properties/欲しいものor買ったものリスト/買ったor持っているもの/Logicool G810 G910.md",
+    "properties/欲しいものor買ったものリスト/買ったor持っているもの/Dell P2715Q.md",
+    "properties/欲しいものor買ったものリスト/買ったor持っているもの/Dell E2013H.md",
+    "properties/欲しいものor買ったものリスト/買ったor持っているもの",
+    "properties/欲しいものor買ったものリスト",
+    "properties",
+    "日記/1月.md",
     "日記/3月.md",
     "ひっこし/引っ越しにあわせて買うもの.md",
     "ひっこし/手続き.md",
@@ -209,13 +219,6 @@
     "本　メモ",
     "本　メモ.md",
     "火星や月に移住.md",
-    "院試振り返り.md",
-    "大学院/生命倫理.md",
-    "大学院/特許.md",
-    "大学院/非侵襲性.md",
-    "大学院/非接触センシング.md",
-    "小論文 構成.md",
-    "口頭試問・研究計画書.md",
     "無題のファイル.canvas"
   ]
 }
