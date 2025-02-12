@@ -4,39 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "47233ec6e1825a8e",
+        "id": "943f99940b196fa6",
         "type": "tabs",
         "children": [
           {
-            "id": "5d6fa361fbec204e",
+            "id": "9d72814dc44c5ed4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ntwkx/OSI参照モデル.md",
+                "file": "ntwkx/ARP.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "OSI参照モデル"
-            }
-          },
-          {
-            "id": "77d12adec8bb84d6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ntwkx/ブロードキャスト.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "ブロードキャスト"
+              "title": "ARP"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -109,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ntwkx/ブロードキャスト.md",
+                "file": "ntwkx/ARP.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "ブロードキャストへのバックリンク"
+              "title": "ARPへのバックリンク"
             }
           },
           {
@@ -128,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ntwkx/ブロードキャスト.md",
+                "file": "ntwkx/ARP.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "ブロードキャストからのアウトゴーイングリンク"
+              "title": "ARPからのアウトゴーイングリンク"
             }
           },
           {
@@ -157,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ntwkx/ブロードキャスト.md",
+                "file": "ntwkx/ARP.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "ブロードキャストのアウトライン"
+              "title": "ARPのアウトライン"
             }
           },
           {
@@ -204,19 +189,23 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "77d12adec8bb84d6",
+  "active": "9d72814dc44c5ed4",
   "lastOpenFiles": [
-    "ntwkx/マルチキャスト.md",
+    "i/日記/3月.md",
     "i/日記/2月.md",
-    "ntwkx/ブロードキャスト.md",
+    "i/会津飯/広源.md",
+    "i/会津飯/重慶.md",
+    "ntwkx/予約済みIPアドレス.md",
     "ntwkx/エニーキャスト.md",
-    "ntwkx/RARP.md",
     "ntwkx/OSI参照モデル.md",
+    "ntwkx/RARP.md",
+    "ntwkx/ARP.md",
+    "ntwkx/ブロードキャスト.md",
+    "ntwkx/マルチキャスト.md",
     "無題のフォルダ/Gaming Keyboard.md",
     "i/system Obsidians/Welcome.md",
     "i/properties/Welcome.md",
     "ntwkx/ユニキャスト.md",
-    "i/日記/3月.md",
     "i/会津飯/ファットリアこもと.md",
     "i/ひっこし/引っ越しにあわせて買うもの.md",
     "自宅.md",
@@ -230,8 +219,6 @@
     "i/専門/小論文 構成.md",
     "i/専門/口頭試問・研究計画書.md",
     "i/専門/院試振り返り.md",
-    "i/本　メモ/9.md",
-    "i/専門/ことばの意味と語源.md",
-    "i/properties/欲しいものor買ったものリスト/買ったor持っているもの/Dell E2013H.md"
+    "i/本　メモ/9.md"
   ]
 }
