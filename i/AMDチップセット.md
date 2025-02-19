@@ -1,3 +1,13 @@
+## 7シリーズ
+### 新機能
+- PCI Express 2.0
+- HyperTransport 3.0
+### 仕様
+#### ソケット
+- Socket AM2+ AM3
+#### 製品一覧
+- 740G
+- 
 ## 8シリーズ
 ### 新機能
 - Alink Express III
