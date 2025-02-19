@@ -7,7 +7,21 @@
 - Socket AM2+ AM3
 #### 製品一覧
 - 740G
-- 
+	- HT2.0
+- 760G
+	- HT3.0
+- 770
+- 780V
+	- Radeon 3100
+- 780G
+	- Radeon HD3200
+- 785G
+	- Radeon HD4200
+- 790X
+	- x8+x8に対応
+- 790GX
+	- 790XにRadeon HD3300
+- 790FX
 ## 8シリーズ
 ### 新機能
 - Alink Express III
