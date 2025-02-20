@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AMDチップセット.md",
+                "file": "ひっこし/手続き.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "AMDチップセット"
+              "title": "手続き"
             }
           }
         ],
@@ -201,8 +201,8 @@
   },
   "active": "19ddab434dfef96e",
   "lastOpenFiles": [
-    "日経XTECH.md",
     "AMDチップセット.md",
+    "日経XTECH.md",
     "無題のファイル.md",
     "日記/2月.md",
     "PCパーツ",
