@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "AMDチップセット"
             }
+          },
+          {
+            "id": "80a4a849f7c2080e",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.8.7"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.8.7"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -189,7 +202,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "9d72814dc44c5ed4",
+  "active": "80a4a849f7c2080e",
   "lastOpenFiles": [
     "i/日経XTECH.md",
     "i/AMDチップセット.md",
