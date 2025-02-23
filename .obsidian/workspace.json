@@ -13,28 +13,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "i/AMDチップセット.md",
+                "file": "i/日記/2月.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "AMDチップセット"
-            }
-          },
-          {
-            "id": "80a4a849f7c2080e",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.8.7"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.8.7"
+              "title": "2月"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -202,13 +189,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "80a4a849f7c2080e",
+  "active": "9d72814dc44c5ed4",
   "lastOpenFiles": [
-    "i/日経XTECH.md",
+    "i/無題のファイル.md",
     "i/AMDチップセット.md",
+    "i/日経XTECH.md",
     "i/大学院/手続き/生協.md",
     "i/大学院/手続き/新入生ガイダンス.md",
-    "i/無題のファイル.md",
     "i/会津飯/吉野家.md",
     "i/大学院/手続き/入学手続き.md",
     "i/大学院/専門・院試/インフォームド・コンセント.md",
