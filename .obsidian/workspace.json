@@ -20,6 +20,18 @@
               "icon": "lucide-file",
               "title": "3月"
             }
+          },
+          {
+            "id": "a1556e7c0f8dad88",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.8.9"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.8.9"
+            }
           }
         ]
       }
