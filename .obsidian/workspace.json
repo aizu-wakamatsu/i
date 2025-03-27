@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "i/日記/3月.md",
+                "file": "ntwkx/無題のファイル.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "3月"
+              "title": "無題のファイル"
             }
           },
           {
@@ -203,9 +203,14 @@
   },
   "active": "9d72814dc44c5ed4",
   "lastOpenFiles": [
+    "ntwkx/ブロードキャスト.md",
+    "ntwkx/マルチキャスト.md",
+    "ntwkx/ユニキャスト.md",
+    "ntwkx/無題のファイル.md",
+    "ntwkx/予約済みIPアドレス.md",
+    "i/日記/3月.md",
     "i/日記/1月.md",
     "i/日記/2月.md",
-    "i/日記/3月.md",
     "i/無題のファイル.md",
     "i/AMDチップセット.md",
     "i/日経XTECH.md",
@@ -223,14 +228,9 @@
     "ntwkx/ARP.md",
     "i/会津飯/広源.md",
     "i/会津飯/重慶.md",
-    "ntwkx/予約済みIPアドレス.md",
     "ntwkx/エニーキャスト.md",
     "ntwkx/OSI参照モデル.md",
     "ntwkx/RARP.md",
-    "ntwkx/ブロードキャスト.md",
-    "ntwkx/マルチキャスト.md",
-    "i/system Obsidians/Welcome.md",
-    "i/properties/Welcome.md",
     "ntwkx",
     "無題のフォルダ",
     "i/ひっこし"
