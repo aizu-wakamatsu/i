@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "i/日記/1月.md",
+                "file": "i/無題のファイル.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1月"
+              "title": "無題のファイル"
             }
           }
         ]
@@ -191,6 +191,7 @@
   },
   "active": "f4cca40ca6ed5682",
   "lastOpenFiles": [
+    "i/日記/1月.md",
     "ntwkx/QoS.md",
     "ntwkx/DNS.md",
     "ntwkx/OSI.md",
@@ -199,7 +200,6 @@
     "conflict-files-obsidian-git.md",
     "無題のフォルダ/AMDチップセット.md",
     "ntwkx/OSPF.md",
-    "i/日記/1月.md",
     "i/日記/2月.md",
     "i/無題のファイル.md",
     "i/AMDチップセット.md",
