@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ntwkx/DNS.md",
+                "file": "i/日記/1月.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "DNS"
+              "title": "1月"
             }
           }
         ]
@@ -191,12 +191,14 @@
   },
   "active": "f4cca40ca6ed5682",
   "lastOpenFiles": [
-    "i/日記/3月.md",
+    "ntwkx/QoS.md",
     "ntwkx/DNS.md",
+    "ntwkx/OSI.md",
+    "ntwkx/MAP-E.md",
+    "i/日記/3月.md",
     "conflict-files-obsidian-git.md",
     "無題のフォルダ/AMDチップセット.md",
     "ntwkx/OSPF.md",
-    "ntwkx/OSI.md",
     "i/日記/1月.md",
     "i/日記/2月.md",
     "i/無題のファイル.md",
@@ -209,7 +211,6 @@
     "i/大学院/専門・院試/インフォームド・コンセント.md",
     "i/大学院/手続き",
     "i/大学院/専門・院試",
-    "ntwkx/MAP-E.md",
     "無題のフォルダ/Gaming Keyboard.md",
     "自宅.md",
     "README.md",
@@ -218,7 +219,6 @@
     "i/会津飯/重慶.md",
     "ntwkx/予約済みIPアドレス.md",
     "ntwkx/エニーキャスト.md",
-    "ntwkx/OSI参照モデル.md",
     "ntwkx",
     "無題のフォルダ",
     "i/ひっこし"
