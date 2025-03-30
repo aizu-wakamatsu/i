@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ntwkx/認証/CHAP.md",
+                "file": "ntwkx/VRRP.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "CHAP"
+              "title": "VRRP"
             }
           }
         ]
@@ -191,14 +191,20 @@
   },
   "active": "f4cca40ca6ed5682",
   "lastOpenFiles": [
-    "ntwkx/認証/PAP.md",
+    "ntwkx/予約済みIPアドレス.md",
+    "ntwkx/ユニキャスト.md",
+    "ntwkx/マルチキャスト.md",
+    "ntwkx/ブロードキャスト.md",
+    "ntwkx/エニーキャスト.md",
+    "ntwkx/ルーティング/OSPF.md",
+    "ntwkx/OSI参照モデル.md",
+    "ntwkx/MAP-E.md",
+    "ntwkx/ルーティング",
+    "ntwkx/OSI.md",
     "ntwkx/DNS.md",
     "ntwkx/ARP.md",
-    "ntwkx/OSPF.md",
-    "ntwkx/OSI参照モデル.md",
-    "ntwkx/OSI.md",
-    "ntwkx/MAP-E.md",
     "ntwkx/認証/CHAP.md",
+    "ntwkx/認証/PAP.md",
     "ntwkx/VRRP.md",
     "ntwkx/認証",
     "README.md",
@@ -213,13 +219,8 @@
     "i/日経XTECH.md",
     "i/大学院/手続き/生協.md",
     "i/大学院/手続き/新入生ガイダンス.md",
-    "i/会津飯/吉野家.md",
-    "i/大学院/手続き/入学手続き.md",
-    "i/大学院/専門・院試/インフォームド・コンセント.md",
     "i/大学院/手続き",
     "i/大学院/専門・院試",
-    "無題のフォルダ/Gaming Keyboard.md",
-    "自宅.md",
     "ntwkx",
     "無題のフォルダ",
     "i/ひっこし"
