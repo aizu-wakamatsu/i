@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ntwkx/VRRP.md",
+                "file": "ntwkx/RARP.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "VRRP"
+              "title": "RARP"
             }
           }
         ]
@@ -191,6 +191,8 @@
   },
   "active": "f4cca40ca6ed5682",
   "lastOpenFiles": [
+    "ntwkx/QoS.md",
+    "ntwkx/VRRP.md",
     "ntwkx/予約済みIPアドレス.md",
     "ntwkx/ユニキャスト.md",
     "ntwkx/マルチキャスト.md",
@@ -205,13 +207,11 @@
     "ntwkx/ARP.md",
     "ntwkx/認証/CHAP.md",
     "ntwkx/認証/PAP.md",
-    "ntwkx/VRRP.md",
     "ntwkx/認証",
     "README.md",
     "i/無題のファイル.md",
     "i/日記/3月.md",
     "i/日記/1月.md",
-    "ntwkx/QoS.md",
     "conflict-files-obsidian-git.md",
     "無題のフォルダ/AMDチップセット.md",
     "i/日記/2月.md",
