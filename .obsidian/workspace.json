@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ntwkx/予約済みIPアドレス.md",
+                "file": "ntwkx/認証/CHAP.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "予約済みIPアドレス"
+              "title": "CHAP"
             }
           }
         ]
@@ -191,6 +191,7 @@
   },
   "active": "f4cca40ca6ed5682",
   "lastOpenFiles": [
+    "ntwkx/予約済みIPアドレス.md",
     "ntwkx/マルチキャスト.md",
     "ntwkx/エニーキャスト.md",
     "ntwkx/ブロードキャスト.md",
@@ -201,7 +202,6 @@
     "ntwkx/OSI.md",
     "ntwkx/DNS.md",
     "ntwkx/ARP.md",
-    "ntwkx/予約済みIPアドレス.md",
     "ntwkx/ユニキャスト.md",
     "ntwkx/ルーティング/OSPF.md",
     "ntwkx/MAP-E.md",
