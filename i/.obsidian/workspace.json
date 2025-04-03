@@ -27,26 +27,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "日記/2月.md",
+                "file": "日記/3月.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2月"
+              "title": "3月"
             }
           },
           {
-            "id": "19ddab434dfef96e",
+            "id": "646b6c76d0901662",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ひっこし/梱包検討.md",
+                "file": "日記/3月.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "梱包検討"
+              "title": "3月"
             }
           }
         ],
@@ -199,14 +199,17 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "19ddab434dfef96e",
+  "active": "fa848295c4612f98",
   "lastOpenFiles": [
-    "ひっこし/段ボール.md",
-    "ひっこし/梱包検討.md",
-    "ひっこし/処分.md",
-    "ひっこし/手続き.md",
+    "会津飯/こうみ家.md",
+    "ひっこし/家具など.md",
     "日記/2月.md",
     "日記/3月.md",
+    "ひっこし/梱包検討.md",
+    "ひっこし/引っ越しにあわせて買うもの.md",
+    "ひっこし/段ボール.md",
+    "ひっこし/処分.md",
+    "ひっこし/手続き.md",
     "大学院/手続き/生協.md",
     "AMDチップセット.md",
     "日経XTECH.md",
@@ -226,10 +229,7 @@
     "大学院/専門・院試/口頭試問・研究計画書.md",
     "大学院/専門・院試/医療機器のクラス.md",
     "大学院/専門・院試/インフォームド・コンセント.md",
-    "大学院/専門・院試/ことばの意味と語源.md",
     "大学院/専門・院試",
-    "会津飯/ファットリアこもと.md",
-    "会津飯/黄鶴楼.md",
     "properties/欲しいものor買ったものリスト/買ったor持っているもの",
     "properties/欲しいものor買ったものリスト",
     "properties",
