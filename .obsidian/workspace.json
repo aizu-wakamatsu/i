@@ -11,13 +11,14 @@
             "id": "9d72814dc44c5ed4",
             "type": "leaf",
             "state": {
-              "type": "diff-view",
+              "type": "markdown",
               "state": {
-                "file": ".obsidian/workspace.json",
-                "staged": false
+                "file": "ntwkx/OSI.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "git-pull-request",
-              "title": "Diff View (workspace.json)"
+              "icon": "lucide-file",
+              "title": "OSI"
             }
           }
         ]
@@ -188,8 +189,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "5519a7fd10cd3c84",
+  "active": "9d72814dc44c5ed4",
   "lastOpenFiles": [
+    "ntwkx/ARP.md",
     "conflict-files-obsidian-git.md",
     "i/日記/3月.md",
     "無題のフォルダ/AMDチップセット.md",
@@ -211,7 +213,6 @@
     "無題のフォルダ/Gaming Keyboard.md",
     "自宅.md",
     "README.md",
-    "ntwkx/ARP.md",
     "i/会津飯/広源.md",
     "i/会津飯/重慶.md",
     "ntwkx/予約済みIPアドレス.md",
