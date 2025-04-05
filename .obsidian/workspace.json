@@ -25,13 +25,14 @@
             "id": "4fda98c81b196e52",
             "type": "leaf",
             "state": {
-              "type": "diff-view",
+              "type": "markdown",
               "state": {
-                "file": "ntwkx/MAP-E.md",
-                "staged": false
+                "file": "i/日記/4月.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "git-pull-request",
-              "title": "Diff View (MAP-E)"
+              "icon": "lucide-file",
+              "title": "4月"
             }
           }
         ],
@@ -205,6 +206,8 @@
   },
   "active": "4fda98c81b196e52",
   "lastOpenFiles": [
+    "i/日記/3月.md",
+    "i/日記/4月.md",
     "conflict-files-obsidian-git.md",
     "ntwkx/MAP-E.md",
     "ntwkx/OSI.md",
@@ -221,7 +224,6 @@
     "i/ひっこし/梱包検討.md",
     "i/ひっこし/家具など.md",
     "ntwkx/ARP.md",
-    "i/日記/3月.md",
     "無題のフォルダ/AMDチップセット.md",
     "ntwkx/OSPF.md",
     "i/日記/1月.md",
@@ -232,7 +234,6 @@
     "i/大学院/手続き/生協.md",
     "i/大学院/手続き/新入生ガイダンス.md",
     "i/会津飯/吉野家.md",
-    "i/大学院/手続き/入学手続き.md",
     "i/大学院/手続き",
     "i/大学院/専門・院試",
     "ntwkx",
