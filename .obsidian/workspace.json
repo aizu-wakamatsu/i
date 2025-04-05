@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ntwkx/OSI.md",
+                "file": "ntwkx/ICMP.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "OSI"
+              "title": "ICMP"
             }
           }
         ]
@@ -191,9 +191,11 @@
   },
   "active": "9d72814dc44c5ed4",
   "lastOpenFiles": [
-    "i/日記/4月.md",
+    "無題のファイル.md",
+    "ntwkx/ICMP.md",
     "ntwkx/OSI.md",
-    "i/日記/3月.md",
+    "日記/4月.md",
+    "日記/3月.md",
     "conflict-files-obsidian-git.md",
     "ntwkx/MAP-E.md",
     "ntwkx/認証/CHAP.md",
@@ -204,25 +206,23 @@
     "ntwkx/VRRP.md",
     "ntwkx/QoS.md",
     "ntwkx/DNS.md",
-    "i/会津飯/こうみ家.md",
-    "i/ひっこし/段ボール.md",
-    "i/ひっこし/梱包検討.md",
-    "i/ひっこし/家具など.md",
+    "会津飯/こうみ家.md",
+    "ひっこし/段ボール.md",
+    "ひっこし/梱包検討.md",
+    "ひっこし/家具など.md",
     "ntwkx/ARP.md",
     "無題のフォルダ/AMDチップセット.md",
     "ntwkx/OSPF.md",
-    "i/日記/1月.md",
-    "i/日記/2月.md",
-    "i/無題のファイル.md",
+    "日記/1月.md",
+    "日記/2月.md",
     "i/AMDチップセット.md",
     "i/日経XTECH.md",
-    "i/大学院/手続き/生協.md",
-    "i/大学院/手続き/新入生ガイダンス.md",
-    "i/会津飯/吉野家.md",
-    "i/大学院/手続き",
-    "i/大学院/専門・院試",
+    "大学院/手続き/生協.md",
+    "大学院/手続き/新入生ガイダンス.md",
+    "大学院/手続き",
+    "大学院/専門・院試",
     "ntwkx",
     "無題のフォルダ",
-    "i/ひっこし"
+    "ひっこし"
   ]
 }
