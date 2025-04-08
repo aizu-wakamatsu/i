@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ntwkx/ブロードキャスト.md",
+                "file": "ntwkx/ユニキャスト.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ブロードキャスト"
+              "title": "ユニキャスト"
             }
           }
         ]
@@ -191,20 +191,23 @@
   },
   "active": "9d72814dc44c5ed4",
   "lastOpenFiles": [
+    "ntwkx/メモ.md",
+    "ntwkx/マルチキャスト.md",
+    "ntwkx/伝送制御/QoS.md",
+    "ntwkx/VRRP.md",
+    "ntwkx/伝送制御/CSMA.md",
+    "ntwkx/伝送制御",
+    "ntwkx/ICMP.md",
+    "ntwkx/ブロードキャスト.md",
     "ntwkx/IPS.md",
     "ntwkx/OSI.md",
     "ntwkx/名前・アドレス解決/DNS.md",
     "ntwkx/名前・アドレス解決/ARP.md",
     "ntwkx/名前・アドレス解決/RARP.md",
     "ntwkx/エニーキャスト.md",
-    "ntwkx/マルチキャスト.md",
-    "ntwkx/無題のファイル.md",
     "ntwkx/名前・アドレス解決",
-    "ntwkx/VRRP.md",
-    "ntwkx/QoS.md",
     "ntwkx/IPv6/MAP-E.md",
     "ntwkx/IPv6",
-    "ntwkx/ICMP.md",
     "ntwkx/ルーティング/RIP-2.md",
     "ntwkx/ルーティング/無題のフォルダ",
     "ntwkx/メール/POP before SMTP.md",
@@ -221,11 +224,8 @@
     "日記/1月.md",
     "日記",
     "大学院/手続き/生協.md",
-    "大学院/手続き/新入生ガイダンス.md",
-    "大学院/手続き/入学手続き.md",
     "大学院/手続き",
     "大学院/専門・院試",
-    "大学院",
-    "会津飯"
+    "大学院"
   ]
 }
