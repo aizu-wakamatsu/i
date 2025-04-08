@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ntwkx/ICMP.md",
+                "file": "ntwkx/ブロードキャスト.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ICMP"
+              "title": "ブロードキャスト"
             }
           }
         ]
@@ -191,8 +191,23 @@
   },
   "active": "9d72814dc44c5ed4",
   "lastOpenFiles": [
-    "ntwkx/メール/POP before SMTP.md",
+    "ntwkx/IPS.md",
     "ntwkx/OSI.md",
+    "ntwkx/名前・アドレス解決/DNS.md",
+    "ntwkx/名前・アドレス解決/ARP.md",
+    "ntwkx/名前・アドレス解決/RARP.md",
+    "ntwkx/エニーキャスト.md",
+    "ntwkx/マルチキャスト.md",
+    "ntwkx/無題のファイル.md",
+    "ntwkx/名前・アドレス解決",
+    "ntwkx/VRRP.md",
+    "ntwkx/QoS.md",
+    "ntwkx/IPv6/MAP-E.md",
+    "ntwkx/IPv6",
+    "ntwkx/ICMP.md",
+    "ntwkx/ルーティング/RIP-2.md",
+    "ntwkx/ルーティング/無題のフォルダ",
+    "ntwkx/メール/POP before SMTP.md",
     "ntwkx/メール",
     "conflict-files-obsidian-git.md",
     "無題のファイル.md",
@@ -208,24 +223,9 @@
     "大学院/手続き/生協.md",
     "大学院/手続き/新入生ガイダンス.md",
     "大学院/手続き/入学手続き.md",
-    "大学院/専門・院試/非接触センシング.md",
-    "大学院/専門・院試/非侵襲性.md",
-    "大学院/専門・院試/院試振り返り.md",
-    "大学院/専門・院試/生命倫理.md",
-    "大学院/専門・院試/特許.md",
-    "大学院/専門・院試/小論文 構成.md",
-    "大学院/専門・院試/大学院科目 e 会津大.md",
-    "大学院/専門・院試/口頭試問・研究計画書.md",
-    "大学院/専門・院試/国産医療機器.md",
-    "大学院/専門・院試/医療機器のクラス.md",
-    "大学院/専門・院試/インフォームド・コンセント.md",
-    "大学院/専門・院試/ことばの意味と語源.md",
     "大学院/手続き",
     "大学院/専門・院試",
     "大学院",
-    "会津飯",
-    "ひっこし",
-    "system Obsidians",
-    "properties/欲しいものor買ったものリスト/買ったor持っているもの"
+    "会津飯"
   ]
 }
