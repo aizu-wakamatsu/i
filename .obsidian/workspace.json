@@ -11,13 +11,14 @@
             "id": "9d72814dc44c5ed4",
             "type": "leaf",
             "state": {
-              "type": "diff-view",
+              "type": "markdown",
               "state": {
-                "file": "ntwkx/メモ.md",
-                "staged": false
+                "file": "日記/4月.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "git-pull-request",
-              "title": "Diff View (メモ)"
+              "icon": "lucide-file",
+              "title": "4月"
             }
           }
         ]
@@ -156,8 +157,8 @@
             "state": {
               "type": "calendar",
               "state": {},
-              "icon": "calendar-with-checkmark",
-              "title": "Calendar"
+              "icon": "lucide-file",
+              "title": "アクティブでなくなったプラグイン"
             }
           },
           {
@@ -191,40 +192,40 @@
   "active": "9d72814dc44c5ed4",
   "lastOpenFiles": [
     "ntwkx/メモ.md",
-    "ntwkx/ユニキャスト.md",
-    "ntwkx/マルチキャスト.md",
-    "ntwkx/伝送制御/QoS.md",
-    "ntwkx/VRRP.md",
-    "ntwkx/伝送制御/CSMA.md",
-    "ntwkx/伝送制御",
-    "ntwkx/ICMP.md",
-    "ntwkx/ブロードキャスト.md",
-    "ntwkx/IPS.md",
-    "ntwkx/OSI.md",
+    "ntwkx/名前・アドレス解決/RARP.md",
     "ntwkx/名前・アドレス解決/DNS.md",
     "ntwkx/名前・アドレス解決/ARP.md",
-    "ntwkx/名前・アドレス解決/RARP.md",
-    "ntwkx/エニーキャスト.md",
     "ntwkx/名前・アドレス解決",
-    "ntwkx/IPv6/MAP-E.md",
-    "ntwkx/IPv6",
+    "ntwkx/伝送制御/QoS.md",
+    "ntwkx/伝送制御/CSMA.md",
+    "ntwkx/伝送制御",
     "ntwkx/ルーティング/RIP-2.md",
-    "ntwkx/ルーティング/無題のフォルダ",
     "ntwkx/メール/POP before SMTP.md",
     "ntwkx/メール",
-    "conflict-files-obsidian-git.md",
+    "ntwkx/IPv6/MAP-E.md",
+    "ntwkx/IPv6",
+    "ntwkx/IPS.md",
+    "ntwkx/ICMP.md",
     "無題のファイル.md",
-    "本　メモ/借りた.md",
-    "本　メモ/作曲少女～平凡な私が14日間で曲を作れるようになった話～.md",
-    "本　メモ/9.md",
-    "本　メモ",
-    "日記/3月.md",
+    "ntwkx/OSI.md",
     "日記/4月.md",
-    "日記/2月.md",
-    "日記/1月.md",
-    "日記",
+    "日記/3月.md",
+    "conflict-files-obsidian-git.md",
+    "ntwkx/MAP-E.md",
+    "ntwkx/認証/CHAP.md",
+    "ntwkx/認証/PAP.md",
+    "ntwkx/認証",
+    "ntwkx/ルーティング/OSPF.md",
+    "ntwkx/ルーティング",
+    "ntwkx/VRRP.md",
+    "ntwkx/QoS.md",
+    "ntwkx/DNS.md",
+    "会津飯/こうみ家.md",
+    "ひっこし/段ボール.md",
+    "ひっこし/梱包検討.md",
     "大学院/手続き",
     "大学院/専門・院試",
-    "大学院"
+    "ntwkx",
+    "無題のフォルダ"
   ]
 }
