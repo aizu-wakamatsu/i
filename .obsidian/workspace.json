@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ntwkx/名前・アドレス解決/DNS.md",
+                "file": "ntwkx/OSI参照モデル.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "DNS"
+              "title": "OSI参照モデル"
             }
           }
         ]
@@ -191,6 +191,7 @@
   },
   "active": "5040c3018e72bd99",
   "lastOpenFiles": [
+    "ntwkx/名前・アドレス解決/DNS.md",
     "ntwkx/メモ.md",
     "ntwkx/ユニキャスト.md",
     "ntwkx/マルチキャスト.md",
@@ -202,7 +203,6 @@
     "ntwkx/ブロードキャスト.md",
     "ntwkx/IPS.md",
     "ntwkx/OSI.md",
-    "ntwkx/名前・アドレス解決/DNS.md",
     "ntwkx/名前・アドレス解決/ARP.md",
     "ntwkx/名前・アドレス解決/RARP.md",
     "ntwkx/エニーキャスト.md",
