@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ntwkx/ブロードキャスト.md",
+                "file": "ntwkx/スイッチ.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ブロードキャスト"
+              "title": "スイッチ"
             }
           }
         ]
@@ -191,6 +191,8 @@
   },
   "active": "5040c3018e72bd99",
   "lastOpenFiles": [
+    "ntwkx/ブロードキャスト.md",
+    "ntwkx/スイッチ.md",
     "ntwkx/エニーキャスト.md",
     "ntwkx/OSI参照モデル.md",
     "ntwkx/VRRP.md",
@@ -203,7 +205,6 @@
     "ntwkx/伝送制御/CSMA.md",
     "ntwkx/伝送制御",
     "ntwkx/ICMP.md",
-    "ntwkx/ブロードキャスト.md",
     "ntwkx/IPS.md",
     "ntwkx/OSI.md",
     "ntwkx/名前・アドレス解決/ARP.md",
@@ -222,7 +223,6 @@
     "本　メモ/9.md",
     "本　メモ",
     "日記/3月.md",
-    "日記/4月.md",
     "日記",
     "大学院/手続き",
     "大学院/専門・院試",
