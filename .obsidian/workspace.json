@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ntwkx/スイッチ.md",
+                "file": "VLAN.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "スイッチ"
+              "title": "VLAN"
             }
           }
         ]
@@ -191,8 +191,9 @@
   },
   "active": "5040c3018e72bd99",
   "lastOpenFiles": [
-    "ntwkx/ブロードキャスト.md",
     "ntwkx/スイッチ.md",
+    "VLAN.md",
+    "ntwkx/ブロードキャスト.md",
     "ntwkx/エニーキャスト.md",
     "ntwkx/OSI参照モデル.md",
     "ntwkx/VRRP.md",
@@ -222,7 +223,6 @@
     "本　メモ/作曲少女～平凡な私が14日間で曲を作れるようになった話～.md",
     "本　メモ/9.md",
     "本　メモ",
-    "日記/3月.md",
     "日記",
     "大学院/手続き",
     "大学院/専門・院試",
