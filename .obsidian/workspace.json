@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ntwkx/OSI参照モデル.md",
+                "file": "ntwkx/アーラン.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "OSI参照モデル"
+              "title": "アーラン"
             }
           }
         ]
@@ -191,8 +191,10 @@
   },
   "active": "5040c3018e72bd99",
   "lastOpenFiles": [
-    "ntwkx/名前・アドレス解決/DNS.md",
     "ntwkx/メモ.md",
+    "ntwkx/アーラン.md",
+    "ntwkx/OSI参照モデル.md",
+    "ntwkx/名前・アドレス解決/DNS.md",
     "ntwkx/ユニキャスト.md",
     "ntwkx/マルチキャスト.md",
     "ntwkx/伝送制御/QoS.md",
@@ -221,8 +223,6 @@
     "本　メモ",
     "日記/3月.md",
     "日記/4月.md",
-    "日記/2月.md",
-    "日記/1月.md",
     "日記",
     "大学院/手続き",
     "大学院/専門・院試",
