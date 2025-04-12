@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ntwkx/ベーシック認証とダイジェスト認証.md",
+                "file": "ntwkx/SAN.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ベーシック認証とダイジェスト認証"
+              "title": "SAN"
             }
           }
         ]
@@ -192,6 +192,7 @@
   "active": "9d72814dc44c5ed4",
   "lastOpenFiles": [
     "ntwkx/メモ.md",
+    "ntwkx/SAN.md",
     "ntwkx/ベーシック認証とダイジェスト認証.md",
     "ntwkx/ブロードキャスト.md",
     "ntwkx/スイッチ.md",
@@ -220,7 +221,6 @@
     "日記/3月.md",
     "conflict-files-obsidian-git.md",
     "ntwkx/MAP-E.md",
-    "ntwkx/認証/CHAP.md",
     "ntwkx/認証",
     "ntwkx/ルーティング",
     "大学院/手続き",
