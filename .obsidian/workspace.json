@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ntwkx/SAN.md",
+                "file": "ntwkx/スパニングツリー.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "SAN"
+              "title": "スパニングツリー"
             }
           }
         ]
@@ -192,18 +192,21 @@
   "active": "9d72814dc44c5ed4",
   "lastOpenFiles": [
     "ntwkx/メモ.md",
-    "ntwkx/SAN.md",
+    "ntwkx/スパニングツリー.md",
+    "ntwkx/ユニキャスト.md",
+    "ntwkx/予約済みIPアドレス.md",
     "ntwkx/ベーシック認証とダイジェスト認証.md",
-    "ntwkx/ブロードキャスト.md",
     "ntwkx/スイッチ.md",
     "ntwkx/エニーキャスト.md",
+    "ntwkx/ICMP.md",
+    "ntwkx/IPS.md",
+    "ntwkx/OSI.md",
+    "ntwkx/OSI参照モデル.md",
+    "ntwkx/SAN.md",
+    "ntwkx/ブロードキャスト.md",
     "ntwkx/アーラン.md",
     "ntwkx/VRRP.md",
     "ntwkx/VLAN.md",
-    "ntwkx/OSI.md",
-    "ntwkx/IPS.md",
-    "ntwkx/ICMP.md",
-    "ntwkx/OSI参照モデル.md",
     "ntwkx/IPv6/MAP-E.md",
     "ntwkx/メール/POP before SMTP.md",
     "日記/4月.md",
@@ -218,9 +221,6 @@
     "ntwkx/メール",
     "ntwkx/IPv6",
     "無題のファイル.md",
-    "日記/3月.md",
-    "conflict-files-obsidian-git.md",
-    "ntwkx/MAP-E.md",
     "ntwkx/認証",
     "ntwkx/ルーティング",
     "大学院/手続き",
