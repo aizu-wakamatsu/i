@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ntwkx/OSI参照モデル.md",
+                "file": "ntwkx/メール/POP before SMTP.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "OSI参照モデル"
+              "title": "POP before SMTP"
             }
           }
         ]
@@ -191,6 +191,7 @@
   },
   "active": "9d72814dc44c5ed4",
   "lastOpenFiles": [
+    "ntwkx/OSI参照モデル.md",
     "ntwkx/OSI.md",
     "ntwkx/メール/POP before SMTP.md",
     "ntwkx/ICMP.md",
@@ -222,7 +223,6 @@
     "ntwkx/ルーティング",
     "ntwkx/VRRP.md",
     "ntwkx/QoS.md",
-    "ntwkx/DNS.md",
     "大学院/手続き",
     "大学院/専門・院試",
     "ntwkx",
