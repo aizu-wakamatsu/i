@@ -192,6 +192,7 @@
   "active": "9d72814dc44c5ed4",
   "lastOpenFiles": [
     "ntwkx/VLAN.md",
+    "ntwkx/VRRP.md",
     "ntwkx/OSI参照モデル.md",
     "ntwkx/IPS.md",
     "ntwkx/OSI.md",
@@ -221,7 +222,6 @@
     "ntwkx/認証",
     "ntwkx/ルーティング/OSPF.md",
     "ntwkx/ルーティング",
-    "ntwkx/VRRP.md",
     "ntwkx/QoS.md",
     "大学院/手続き",
     "大学院/専門・院試",
