@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ntwkx/メモ.md",
+                "file": "ntwkx/無線（802．11）.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "メモ"
+              "title": "無線（802．11）"
             }
           }
         ]
@@ -191,20 +191,21 @@
   },
   "active": "5040c3018e72bd99",
   "lastOpenFiles": [
-    "ntwkx/無線（802．11）.md",
-    "ntwkx/ベーシック認証とダイジェスト認証.md",
+    "ntwkx/予約済みIPアドレス.md",
+    "ntwkx/ユニキャスト.md",
     "ntwkx/スパニングツリー.md",
+    "ntwkx/ブロードキャスト.md",
+    "ntwkx/ベーシック認証とダイジェスト認証.md",
+    "ntwkx/メモ.md",
+    "ntwkx/無線（802．11）.md",
     "ntwkx/SAN.md",
     "ntwkx/スイッチ.md",
     "ntwkx/エニーキャスト.md",
     "ntwkx/VLAN.md",
-    "ntwkx/ブロードキャスト.md",
     "ntwkx/OSI参照モデル.md",
     "ntwkx/VRRP.md",
     "ntwkx/アーラン.md",
-    "ntwkx/メモ.md",
     "ntwkx/名前・アドレス解決/DNS.md",
-    "ntwkx/ユニキャスト.md",
     "ntwkx/マルチキャスト.md",
     "ntwkx/伝送制御/QoS.md",
     "ntwkx/伝送制御/CSMA.md",
@@ -221,7 +222,6 @@
     "ntwkx/ルーティング/無題のフォルダ",
     "ntwkx/メール/POP before SMTP.md",
     "ntwkx/メール",
-    "conflict-files-obsidian-git.md",
     "本　メモ",
     "日記",
     "大学院/手続き",
