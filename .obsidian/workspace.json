@@ -48,23 +48,6 @@
             }
           },
           {
-            "id": "f27fb0f87d77c985",
-            "type": "leaf",
-            "state": {
-              "type": "search",
-              "state": {
-                "query": "tag:#＃",
-                "matchingCase": false,
-                "explainSearch": false,
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical"
-              },
-              "icon": "lucide-search",
-              "title": "検索"
-            }
-          },
-          {
             "id": "df1e84f06613336f",
             "type": "leaf",
             "state": {
@@ -74,8 +57,7 @@
               "title": "ブックマーク"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -173,11 +155,11 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -190,7 +172,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "5040c3018e72bd99",
+  "active": "10952f838b9a1248",
   "lastOpenFiles": [
     "ntwkx/予約済みIPアドレス.md",
     "ntwkx/ユニキャスト.md",
