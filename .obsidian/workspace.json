@@ -102,6 +102,23 @@
               "icon": "lucide-bookmark",
               "title": "ブックマーク"
             }
+          },
+          {
+            "id": "534bf802aeaffa4e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "検索"
+            }
           }
         ]
       }
@@ -218,16 +235,17 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "5bcf38fe62177938",
+  "active": "5040c3018e72bd99",
   "lastOpenFiles": [
-    "日記/3月.md",
-    "conflict-files-obsidian-git.md",
-    "ntwkx/メール/POP before SMTP.md",
-    "日記/4月.md",
-    "ntwkx/メモ.md",
+    "ntwkx/IPS.md",
+    "ntwkx/ICMP.md",
     "ntwkx/無線（802．11）.md",
-    "ntwkx/ベーシック認証とダイジェスト認証.md",
+    "ntwkx/予約済みIPアドレス.md",
+    "ntwkx/ユニキャスト.md",
     "ntwkx/スパニングツリー.md",
+    "ntwkx/ブロードキャスト.md",
+    "ntwkx/ベーシック認証とダイジェスト認証.md",
+    "ntwkx/メモ.md",
     "ntwkx/SAN.md",
     "ntwkx/スイッチ.md",
     "ntwkx/エニーキャスト.md",
@@ -242,8 +260,6 @@
     "ntwkx/伝送制御/QoS.md",
     "ntwkx/伝送制御/CSMA.md",
     "ntwkx/伝送制御",
-    "ntwkx/ICMP.md",
-    "ntwkx/IPS.md",
     "ntwkx/OSI.md",
     "ntwkx/名前・アドレス解決/ARP.md",
     "ntwkx/名前・アドレス解決/RARP.md",
