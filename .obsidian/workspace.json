@@ -4,53 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "81f4e31abc8d83cf",
+        "id": "14f610411882c0dd",
         "type": "tabs",
         "children": [
           {
-            "id": "5040c3018e72bd99",
+            "id": "c394e7683c00ac28",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "日記/3月.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "3月"
-            }
-          },
-          {
-            "id": "5bcf38fe62177938",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "conflict-files-obsidian-git.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "conflict-files-obsidian-git"
-            }
-          },
-          {
-            "id": "90d4bed0e430b387",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ntwkx/メール/POP before SMTP.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "POP before SMTP"
+              "title": "新規タブ"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -101,23 +68,6 @@
               "state": {},
               "icon": "lucide-bookmark",
               "title": "ブックマーク"
-            }
-          },
-          {
-            "id": "534bf802aeaffa4e",
-            "type": "leaf",
-            "state": {
-              "type": "search",
-              "state": {
-                "query": "",
-                "matchingCase": false,
-                "explainSearch": false,
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical"
-              },
-              "icon": "lucide-search",
-              "title": "検索"
             }
           }
         ]
@@ -235,17 +185,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "5040c3018e72bd99",
+  "active": "c394e7683c00ac28",
   "lastOpenFiles": [
-    "ntwkx/IPS.md",
-    "ntwkx/ICMP.md",
-    "ntwkx/無線（802．11）.md",
-    "ntwkx/予約済みIPアドレス.md",
-    "ntwkx/ユニキャスト.md",
-    "ntwkx/スパニングツリー.md",
-    "ntwkx/ブロードキャスト.md",
-    "ntwkx/ベーシック認証とダイジェスト認証.md",
+    "ntwkx/メール/POP before SMTP.md",
+    "日記/3月.md",
+    "conflict-files-obsidian-git.md",
+    "日記/4月.md",
     "ntwkx/メモ.md",
+    "ntwkx/無線（802．11）.md",
+    "ntwkx/ベーシック認証とダイジェスト認証.md",
+    "ntwkx/スパニングツリー.md",
     "ntwkx/SAN.md",
     "ntwkx/スイッチ.md",
     "ntwkx/エニーキャスト.md",
@@ -260,6 +209,8 @@
     "ntwkx/伝送制御/QoS.md",
     "ntwkx/伝送制御/CSMA.md",
     "ntwkx/伝送制御",
+    "ntwkx/ICMP.md",
+    "ntwkx/IPS.md",
     "ntwkx/OSI.md",
     "ntwkx/名前・アドレス解決/ARP.md",
     "ntwkx/名前・アドレス解決/RARP.md",
