@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "14f610411882c0dd",
+        "id": "81f4e31abc8d83cf",
         "type": "tabs",
         "children": [
           {
-            "id": "c394e7683c00ac28",
+            "id": "5040c3018e72bd99",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "ntwkx/FabricPath・TRILL.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "新規タブ"
+              "title": "FabricPath・TRILL"
             }
           }
         ]
@@ -44,7 +48,17 @@
             }
           },
           {
-            "id": "f27fb0f87d77c985",
+            "id": "df1e84f06613336f",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "ブックマーク"
+            }
+          },
+          {
+            "id": "534bf802aeaffa4e",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -58,16 +72,6 @@
               },
               "icon": "lucide-search",
               "title": "検索"
-            }
-          },
-          {
-            "id": "df1e84f06613336f",
-            "type": "leaf",
-            "state": {
-              "type": "bookmarks",
-              "state": {},
-              "icon": "lucide-bookmark",
-              "title": "ブックマーク"
             }
           }
         ]
@@ -168,11 +172,11 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -185,37 +189,37 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c394e7683c00ac28",
+  "active": "5040c3018e72bd99",
   "lastOpenFiles": [
-    "ntwkx/メール/POP before SMTP.md",
-    "日記/3月.md",
-    "conflict-files-obsidian-git.md",
-    "日記/4月.md",
-    "ntwkx/メモ.md",
+    "ntwkx/OSI.md",
+    "ntwkx/FabricPath・TRILL.md",
+    "ntwkx/IPS.md",
+    "ntwkx/ICMP.md",
     "ntwkx/無線（802．11）.md",
-    "ntwkx/ベーシック認証とダイジェスト認証.md",
+    "ntwkx/予約済みIPアドレス.md",
+    "ntwkx/ユニキャスト.md",
     "ntwkx/スパニングツリー.md",
+    "ntwkx/ブロードキャスト.md",
+    "ntwkx/ベーシック認証とダイジェスト認証.md",
+    "ntwkx/メモ.md",
     "ntwkx/SAN.md",
     "ntwkx/スイッチ.md",
     "ntwkx/エニーキャスト.md",
     "ntwkx/VLAN.md",
-    "ntwkx/ブロードキャスト.md",
     "ntwkx/OSI参照モデル.md",
     "ntwkx/VRRP.md",
     "ntwkx/アーラン.md",
     "ntwkx/名前・アドレス解決/DNS.md",
-    "ntwkx/ユニキャスト.md",
     "ntwkx/マルチキャスト.md",
     "ntwkx/伝送制御/QoS.md",
     "ntwkx/伝送制御/CSMA.md",
     "ntwkx/伝送制御",
-    "ntwkx/ICMP.md",
-    "ntwkx/IPS.md",
-    "ntwkx/OSI.md",
     "ntwkx/名前・アドレス解決/ARP.md",
     "ntwkx/名前・アドレス解決/RARP.md",
     "ntwkx/名前・アドレス解決",
+    "ntwkx/IPv6/MAP-E.md",
     "ntwkx/IPv6",
+    "ntwkx/ルーティング/RIP-2.md",
     "ntwkx/ルーティング/無題のフォルダ",
     "ntwkx/メール",
     "本　メモ",
