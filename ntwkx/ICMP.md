@@ -12,3 +12,8 @@ pingやtracertで使われるやつ
 自分と通信相手との間の状況を確認するのにつかわれるコマンド
 
 ICMPリダイレクト
+
+
+
+
+https://www.infraexpert.com/study/fhrpz12.html
