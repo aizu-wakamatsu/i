@@ -9,3 +9,5 @@
 | 2     | データリンク層    | 隣接する機器間の通信    | PPP,Ethernet              |
 | 1     | 物理層        | 物理的な伝送媒体      | 無線,UTP                    |
 [参考リンク](https://www.itmanage.co.jp/column/osi-reference-model/)
+
+6: 暗号化はプレゼンテーション層
