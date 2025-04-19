@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ntwkx/マルチキャスト.md",
+                "file": "ntwkx/メモ.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "マルチキャスト"
+              "title": "メモ"
             }
           }
         ]
@@ -191,11 +191,16 @@
   },
   "active": "5040c3018e72bd99",
   "lastOpenFiles": [
+    "ntwkx/OSI.md",
+    "ntwkx/マルチキャスト.md",
+    "ntwkx/ベーシック認証とダイジェスト認証.md",
+    "ntwkx/無線（802．11）.md",
+    "ntwkx/ユニキャスト.md",
     "ntwkx/メモ.md",
+    "ntwkx/予約済みIPアドレス.md",
     "ntwkx/HTTP.md",
     "ntwkx/OSI参照モデル.md",
     "ntwkx/ICMP.md",
-    "ntwkx/OSI.md",
     "ntwkx/IPS.md",
     "ntwkx/FabricPath・TRILL.md",
     "ntwkx/認証/CHAP.md",
@@ -208,15 +213,10 @@
     "ntwkx/アーラン.md",
     "ntwkx/VRRP.md",
     "ntwkx/SAN.md",
-    "ntwkx/無線（802．11）.md",
-    "ntwkx/予約済みIPアドレス.md",
-    "ntwkx/ユニキャスト.md",
     "ntwkx/スパニングツリー.md",
     "ntwkx/ブロードキャスト.md",
-    "ntwkx/ベーシック認証とダイジェスト認証.md",
     "ntwkx/スイッチ.md",
     "ntwkx/エニーキャスト.md",
-    "ntwkx/名前・アドレス解決/DNS.md",
     "ntwkx/伝送制御",
     "ntwkx/名前・アドレス解決",
     "ntwkx/IPv6",
