@@ -1,4 +1,8 @@
 [参考リンク](https://milestone-of-se.nesuke.com/nw-basic/ethernet/vlan/)
+
+# 基本知識
+
+
 # 機能
 
 L2SWとホストの間はポートベースでVLAN IDを設定する

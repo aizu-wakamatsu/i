@@ -1,7 +1,7 @@
 **C**hallenge-**H**andshake **A**uthentication **P**rotocol
 
 ---
-
+# 基本知識
 PPPなどで利用される認証方式の一つ
 
 パスワードをハッシュ化して送ることで、伝送路上での盗み見、漏洩を防止する

@@ -1,7 +1,7 @@
 **I**nternet **C**ontrol **M**essage **P**rotocol
 
 ---
-
+# 基本知識
 レイヤ3のプロトコル
 
 IPヘッダ内のプロトコル番号1
