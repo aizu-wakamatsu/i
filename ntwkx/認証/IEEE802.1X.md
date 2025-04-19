@@ -6,4 +6,4 @@
 EAP
 Extensible Authentication Protocol
 
-サプリカント→
+サプリカント→認証装置（オーセンティケータ）→認証サーバ
