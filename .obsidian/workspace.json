@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "81f4e31abc8d83cf",
+        "id": "14f610411882c0dd",
         "type": "tabs",
         "children": [
           {
-            "id": "5040c3018e72bd99",
+            "id": "c394e7683c00ac28",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ntwkx/メモ.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "メモ"
+              "title": "新規タブ"
             }
           }
         ]
@@ -48,17 +44,7 @@
             }
           },
           {
-            "id": "df1e84f06613336f",
-            "type": "leaf",
-            "state": {
-              "type": "bookmarks",
-              "state": {},
-              "icon": "lucide-bookmark",
-              "title": "ブックマーク"
-            }
-          },
-          {
-            "id": "534bf802aeaffa4e",
+            "id": "f27fb0f87d77c985",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -72,6 +58,16 @@
               },
               "icon": "lucide-search",
               "title": "検索"
+            }
+          },
+          {
+            "id": "df1e84f06613336f",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "ブックマーク"
             }
           }
         ]
@@ -172,11 +168,11 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -189,35 +185,35 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "5040c3018e72bd99",
+  "active": "c394e7683c00ac28",
   "lastOpenFiles": [
-    "ntwkx/TCP.md",
-    "ntwkx/UDP.md",
-    "ntwkx/VLAN.md",
-    "ntwkx/アーラン.md",
-    "ntwkx/VRRP.md",
-    "ntwkx/SAN.md",
-    "ntwkx/OSI参照モデル.md",
-    "ntwkx/OSI.md",
-    "ntwkx/IPS.md",
-    "ntwkx/ICMP.md",
-    "ntwkx/FabricPath・TRILL.md",
-    "ntwkx/認証/PAP.md",
     "ntwkx/認証/IEEE802.1X.md",
-    "ntwkx/認証/CHAP.md",
-    "ntwkx/無線（802．11）.md",
-    "ntwkx/予約済みIPアドレス.md",
-    "ntwkx/ユニキャスト.md",
-    "ntwkx/スパニングツリー.md",
-    "ntwkx/ブロードキャスト.md",
-    "ntwkx/ベーシック認証とダイジェスト認証.md",
+    "ntwkx/UDP.md",
+    "ntwkx/TCP.md",
+    "ntwkx/FabricPath・TRILL.md",
+    "ntwkx/メール/POP before SMTP.md",
+    "日記/3月.md",
+    "conflict-files-obsidian-git.md",
+    "日記/4月.md",
     "ntwkx/メモ.md",
+    "ntwkx/無線（802．11）.md",
+    "ntwkx/ベーシック認証とダイジェスト認証.md",
+    "ntwkx/スパニングツリー.md",
+    "ntwkx/SAN.md",
     "ntwkx/スイッチ.md",
     "ntwkx/エニーキャスト.md",
+    "ntwkx/VLAN.md",
+    "ntwkx/ブロードキャスト.md",
+    "ntwkx/OSI参照モデル.md",
+    "ntwkx/VRRP.md",
+    "ntwkx/アーラン.md",
     "ntwkx/名前・アドレス解決/DNS.md",
+    "ntwkx/ユニキャスト.md",
     "ntwkx/マルチキャスト.md",
     "ntwkx/伝送制御/QoS.md",
+    "ntwkx/伝送制御/CSMA.md",
     "ntwkx/伝送制御",
+    "ntwkx/ICMP.md",
     "ntwkx/名前・アドレス解決",
     "ntwkx/IPv6",
     "ntwkx/ルーティング/無題のフォルダ",
