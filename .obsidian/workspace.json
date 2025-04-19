@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ntwkx/メモ.md",
+                "file": "ntwkx/IPv6/v4とv6.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "メモ"
+              "title": "v4とv6"
             }
           }
         ]
@@ -191,12 +191,13 @@
   },
   "active": "5040c3018e72bd99",
   "lastOpenFiles": [
+    "ntwkx/メモ.md",
+    "ntwkx/IPv6/v4とv6.md",
     "ntwkx/OSI.md",
     "ntwkx/マルチキャスト.md",
     "ntwkx/ベーシック認証とダイジェスト認証.md",
     "ntwkx/無線（802．11）.md",
     "ntwkx/ユニキャスト.md",
-    "ntwkx/メモ.md",
     "ntwkx/予約済みIPアドレス.md",
     "ntwkx/HTTP.md",
     "ntwkx/OSI参照モデル.md",
@@ -216,7 +217,6 @@
     "ntwkx/スパニングツリー.md",
     "ntwkx/ブロードキャスト.md",
     "ntwkx/スイッチ.md",
-    "ntwkx/エニーキャスト.md",
     "ntwkx/伝送制御",
     "ntwkx/名前・アドレス解決",
     "ntwkx/IPv6",
