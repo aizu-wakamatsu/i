@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "4月"
             }
+          },
+          {
+            "id": "39023519562f5751",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.8.10"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.8.10"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -189,7 +202,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "5040c3018e72bd99",
+  "active": "39023519562f5751",
   "lastOpenFiles": [
     "ntwkx/セキュリティ.md",
     "ntwkx/メモ.md",
