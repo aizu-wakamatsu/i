@@ -25,12 +25,14 @@
             "id": "39023519562f5751",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.8.10"
+                "file": "日記/5月.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.8.10"
+              "icon": "lucide-file",
+              "title": "5月"
             }
           }
         ],
@@ -204,6 +206,11 @@
   },
   "active": "39023519562f5751",
   "lastOpenFiles": [
+    "日記/4月.md",
+    "日記/5月.md",
+    "日記/3月.md",
+    "日記/2月.md",
+    "日記/1月.md",
     "ntwkx/セキュリティ.md",
     "ntwkx/メモ.md",
     "ntwkx/ブロードキャスト.md",
@@ -212,7 +219,6 @@
     "ntwkx/OSI参照モデル.md",
     "ntwkx/IPS.md",
     "ntwkx/TCP.md",
-    "日記/4月.md",
     "ntwkx/OSI.md",
     "ntwkx/ICMP.md",
     "ntwkx/認証/ベーシック認証とダイジェスト認証.md",
@@ -226,10 +232,6 @@
     "ntwkx/IPv6/v4とv6.md",
     "ntwkx/HTTP.md",
     "ntwkx/FabricPath・TRILL.md",
-    "ntwkx/IPv6/MAP-E.md",
-    "ntwkx/UDP.md",
-    "ntwkx/VLAN.md",
-    "ntwkx/アーラン.md",
     "ntwkx/伝送制御",
     "ntwkx/名前・アドレス解決",
     "ntwkx/IPv6",
