@@ -118,22 +118,9 @@
               "icon": "lucide-file",
               "title": "９月"
             }
-          },
-          {
-            "id": "aba1be2aa6f24775",
-            "type": "leaf",
-            "state": {
-              "type": "diff-view",
-              "state": {
-                "file": ".obsidian/workspace.json",
-                "staged": false
-              },
-              "icon": "git-pull-request",
-              "title": "Diff View (workspace.json)"
-            }
           }
         ],
-        "currentTab": 8
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -302,7 +289,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "aba1be2aa6f24775",
+  "active": "1e097ab1822574eb",
   "lastOpenFiles": [
     "日記/８月.md",
     "conflict-files-obsidian-git.md",
