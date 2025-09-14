@@ -11,10 +11,14 @@
             "id": "1bb75407b6e702ab",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "TV.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "新規タブ"
+              "title": "TV"
             }
           }
         ]
@@ -188,6 +192,7 @@
   },
   "active": "1bb75407b6e702ab",
   "lastOpenFiles": [
+    "TV.md",
     "日記/6月.md",
     "日記/5月.md",
     "日記/８月.md",
@@ -213,7 +218,6 @@
     "ntwkx/セキュリティ.md",
     "ntwkx/IPv6/v4とv6.md",
     "ntwkx/VRRP.md",
-    "ntwkx/認証/IEEE802.1X.md",
     "ntwkx/伝送制御",
     "ntwkx/名前・アドレス解決",
     "ntwkx/IPv6",
