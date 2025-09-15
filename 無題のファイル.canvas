@@ -62,8 +62,8 @@
 		{"id":"80c25c5b78de48db","type":"text","text":"23LX50","x":-1760,"y":-499,"width":140,"height":27},
 		{"id":"39a574dc20d7ee41","type":"text","text":"2006","x":-2460,"y":-440,"width":120,"height":150},
 		{"id":"d9e1691329e47d45","type":"text","text":"32LX600","x":-1340,"y":-440,"width":140,"height":27},
-		{"id":"445c9452a1e17706","type":"text","text":"20/23/26/32LX60","x":-1480,"y":-413,"width":280,"height":50},
-		{"id":"4f0e5f3774a68191","type":"text","text":"23LX60","x":-1757,"y":-413,"width":280,"height":27},
+		{"id":"445c9452a1e17706","type":"text","text":"26/32LX60","x":-1480,"y":-413,"width":280,"height":27},
+		{"id":"4f0e5f3774a68191","type":"text","text":"23LX60","x":-1757,"y":-413,"width":137,"height":27},
 		{"id":"95d55164e31727af","type":"text","text":"20LX60","x":-2040,"y":-417,"width":140,"height":27}
 	],
 	"edges":[]
