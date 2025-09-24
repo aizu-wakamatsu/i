@@ -28,17 +28,14 @@
             "id": "9d45bdec79d92ab1",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "無題のファイル.canvas",
-                "viewState": {
-                  "x": -1785.4398177066469,
-                  "y": -738.3802925567439,
-                  "zoom": 1.1102230246251565e-16
-                }
+                "file": "日記/９月.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "無題のファイル"
+              "icon": "lucide-file",
+              "title": "９月"
             }
           }
         ],
@@ -213,8 +210,8 @@
   },
   "active": "9d45bdec79d92ab1",
   "lastOpenFiles": [
-    "無題のファイル 1.md",
     "無題のファイル.canvas",
+    "無題のファイル 1.md",
     "無題のファイル.md",
     "TV.md",
     "日記/6月.md",
