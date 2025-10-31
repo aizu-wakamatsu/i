@@ -1,0 +1,250 @@
+{
+  "main": {
+    "id": "345f18402fd6f5e3",
+    "type": "split",
+    "children": [
+      {
+        "id": "58a395daa18746c4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1bb75407b6e702ab",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "無題のファイル.canvas",
+                "viewState": {
+                  "x": 5,
+                  "y": -410,
+                  "zoom": 0
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "無題のファイル"
+            }
+          },
+          {
+            "id": "9d45bdec79d92ab1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "日記/９月.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "９月"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "af4eb3a49deb96fe",
+    "type": "split",
+    "children": [
+      {
+        "id": "9e0abaa6d137be8b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "10952f838b9a1248",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "ファイルエクスプローラ"
+            }
+          },
+          {
+            "id": "f27fb0f87d77c985",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "検索"
+            }
+          },
+          {
+            "id": "df1e84f06613336f",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "ブックマーク"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "52e2f6e8369e4b10",
+    "type": "split",
+    "children": [
+      {
+        "id": "6ccc749408ac8b6a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "91124154070f7860",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "i/日記/3月.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "3月へのバックリンク"
+            }
+          },
+          {
+            "id": "c6ff311d22e6f2fd",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "i/日記/3月.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "3月からのアウトゴーイングリンク"
+            }
+          },
+          {
+            "id": "6f1c173ad2198238",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "タグ"
+            }
+          },
+          {
+            "id": "d7871cb1c24247ba",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "i/日記/3月.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "3月のアウトライン"
+            }
+          },
+          {
+            "id": "a369fd478edb7bf9",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          },
+          {
+            "id": "5519a7fd10cd3c84",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "bases:Create new base": false,
+      "switcher:クイックスイッチャーを開く": false,
+      "graph:グラフビューを開く": false,
+      "canvas:新規キャンバスを作成": false,
+      "daily-notes:今日のデイリーノートを開く": false,
+      "templates:テンプレートを挿入": false,
+      "command-palette:コマンドパレットを開く": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "9d45bdec79d92ab1",
+  "lastOpenFiles": [
+    "無題のファイル.canvas",
+    "無題のファイル 1.md",
+    "無題のファイル.md",
+    "TV.md",
+    "日記/6月.md",
+    "日記/5月.md",
+    "日記/８月.md",
+    "日記/7月.md",
+    "日記/９月.md",
+    "conflict-files-obsidian-git.md",
+    "日記/4月.md",
+    "日記/3月.md",
+    "日記/2月.md",
+    "ntwkx/名前・アドレス解決/RARP.md",
+    "ntwkx/名前・アドレス解決/DNS.md",
+    "ntwkx/名前・アドレス解決/ARP.md",
+    "ntwkx/FabricPath・TRILL.md",
+    "ntwkx/HTTP.md",
+    "ntwkx/ICMP.md",
+    "ntwkx/IPS.md",
+    "ntwkx/OSI.md",
+    "ntwkx/OSI参照モデル.md",
+    "ntwkx/TCP.md",
+    "ntwkx/スパニングツリー.md",
+    "ntwkx/メモ.md",
+    "ntwkx/認証/ベーシック認証とダイジェスト認証.md",
+    "ntwkx/伝送制御",
+    "ntwkx/名前・アドレス解決",
+    "ntwkx/IPv6",
+    "ntwkx/ルーティング/無題のフォルダ",
+    "ntwkx/メール",
+    "本　メモ",
+    "日記",
+    "大学院/手続き",
+    "大学院/専門・院試",
+    "大学院"
+  ]
+}
