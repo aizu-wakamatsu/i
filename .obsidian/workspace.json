@@ -51,9 +51,21 @@
               "icon": "lucide-file",
               "title": "conflict-files-obsidian-git"
             }
+          },
+          {
+            "id": "d9410bef47167e36",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.9.14"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.9.14"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -222,7 +234,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c74cb2bac6e030e7",
+  "active": "d9410bef47167e36",
   "lastOpenFiles": [
     "日記/９月.md",
     "conflict-files-obsidian-git.md",
