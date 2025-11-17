@@ -51,9 +51,21 @@
               "icon": "lucide-file",
               "title": "10月"
             }
+          },
+          {
+            "id": "710b4b1abb8527b0",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.10.3"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.10.3"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -222,7 +234,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d9410bef47167e36",
+  "active": "710b4b1abb8527b0",
   "lastOpenFiles": [
     "日記/９月.md",
     "日記/10月.md",
