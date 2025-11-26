@@ -44,12 +44,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "日記/10月.md",
+                "file": "日記/11月.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "10月"
+              "title": "11月"
             }
           },
           {
@@ -236,8 +236,9 @@
   },
   "active": "d9410bef47167e36",
   "lastOpenFiles": [
-    "日記/９月.md",
     "日記/10月.md",
+    "日記/11月.md",
+    "日記/９月.md",
     "conflict-files-obsidian-git.md",
     "無題のファイル.canvas",
     "無題のファイル 1.md",
@@ -262,7 +263,6 @@
     "ntwkx/TCP.md",
     "ntwkx/スパニングツリー.md",
     "ntwkx/メモ.md",
-    "ntwkx/認証/ベーシック認証とダイジェスト認証.md",
     "ntwkx/伝送制御",
     "ntwkx/名前・アドレス解決",
     "ntwkx/IPv6",
