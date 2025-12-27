@@ -65,18 +65,6 @@
               "icon": "lucide-file",
               "title": "12月"
             }
-          },
-          {
-            "id": "710b4b1abb8527b0",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.10.3"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.10.3"
-            }
           }
         ],
         "currentTab": 3
@@ -250,8 +238,8 @@
   },
   "active": "7c346a629e5a4074",
   "lastOpenFiles": [
-    "日記/11月.md",
     "日記/12月.md",
+    "日記/11月.md",
     "日記/10月.md",
     "日記/９月.md",
     "conflict-files-obsidian-git.md",
