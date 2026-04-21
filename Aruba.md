@@ -47,3 +47,5 @@ apboot> boot
 # 参考リンク
 https://arubanetworking.hpe.com/techdocs/Instant_8.x_WebHelp/Content/instant-ug/uplink-conf/wifi-uplink.htm
 https://invisibletechnology.jp/aruba-instant-ap-setting/#toc5
+https://arubanetworking.hpe.com/techdocs/Instant_8.x_WebHelp/Content/instant-ug/uplink-conf/uplink-mgmt.htm#Enforcin
+https://arubanetworking.hpe.com/techdocs/InstantWenger_Mobile/Advanced/Content/Instant%20User%20Guide%20-%20volumes/Ethernet_Downlink.htm
