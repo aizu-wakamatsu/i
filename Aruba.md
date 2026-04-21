@@ -25,6 +25,7 @@ apboot> boot
 # Uplink WLAN
 ## 構成
 ```
+(Instant AP) # config
 (Instant AP)(config) # wlan sta-profile
 (Instant AP)(sta uplink)# cipher-suite <clear | wpa-tkip-psk | wpa2-ccmp-psk | wpa3-sae-aes>
 (Instant AP)(sta uplink)# essid <essid>
