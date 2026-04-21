@@ -31,6 +31,9 @@ apboot> boot
 (Instant AP)(sta uplink)# essid <essid>
 (Instant AP)(sta uplink)# uplink-band <dot11a/dot11g/dot116GHz>
 (Instant AP)(sta uplink)# wpa-passphrase <key>
+(Instant AP)(sta uplink) # exit
+(Instant AP)(config) # exit
+(Instant AP) #
 ```
 ## 設定の確認
 ```
