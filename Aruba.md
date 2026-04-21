@@ -49,3 +49,4 @@ https://arubanetworking.hpe.com/techdocs/Instant_8.x_WebHelp/Content/instant-ug/
 https://invisibletechnology.jp/aruba-instant-ap-setting/#toc5
 https://arubanetworking.hpe.com/techdocs/Instant_8.x_WebHelp/Content/instant-ug/uplink-conf/uplink-mgmt.htm#Enforcin
 https://arubanetworking.hpe.com/techdocs/InstantWenger_Mobile/Advanced/Content/Instant%20User%20Guide%20-%20volumes/Ethernet_Downlink.htm
+https://solutiontechlab.com/2024/01/06/wifi-uplink-for-aruba-instant-aps-wi-fi5-and-wi-fi6/
