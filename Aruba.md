@@ -23,6 +23,7 @@ apboot> boot
 ```
 
 # Uplink WLAN
+## 構成
 ```
 (Instant AP)(config) # wlan sta-profile
 (Instant AP)(sta uplink)# cipher-suite <clear | wpa-tkip-psk | wpa2-ccmp-psk | wpa3-sae-aes>
@@ -30,7 +31,14 @@ apboot> boot
 (Instant AP)(sta uplink)# uplink-band <dot11a/dot11g/dot116GHz>
 (Instant AP)(sta uplink)# wpa-passphrase <key>
 ```
-
+## 設定の確認
+```
+(Instant AP)# show wifi-uplink status
+```
+## ステータスの確認
+```
+(Instant AP)# show wifi-uplink config
+```
 
 # 参考リンク
 https://arubanetworking.hpe.com/techdocs/Instant_8.x_WebHelp/Content/instant-ug/uplink-conf/wifi-uplink.htm
