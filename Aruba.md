@@ -1,3 +1,4 @@
+AP-205 - ArubaOS Version 6.5.4.27
 https://cdn.support.hpe.com/connect/s/product?cep=on&kmpmoid=1009433152&tab=manuals
 # シリアルポートの設定
 
