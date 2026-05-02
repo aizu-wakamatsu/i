@@ -26,7 +26,7 @@ apboot> boot
 
 # Uplink WLAN
 ## GUI
-拡張SSIDを無効にする
+システム→詳細オプションを表示→一般→拡張SSIDを無効にする
 ## 構成
 ```
 (Instant AP) # config
