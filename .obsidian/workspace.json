@@ -8,23 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "1bb75407b6e702ab",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "無題のファイル.canvas",
-                "viewState": {
-                  "x": 5,
-                  "y": -410,
-                  "zoom": 0
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "無題のファイル"
-            }
-          },
-          {
             "id": "9d45bdec79d92ab1",
             "type": "leaf",
             "state": {
@@ -66,8 +49,7 @@
               "title": "Aruba"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -236,14 +218,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "7c346a629e5a4074",
+  "active": "9d45bdec79d92ab1",
   "lastOpenFiles": [
+    "無題のファイル.canvas",
+    "Aruba.md",
     "TV.md",
     "無題のファイル 1.md",
-    "無題のファイル.canvas",
     "自宅.md",
     "README.md",
-    "Aruba.md",
     "日記/12月.md",
     "日記/11月.md",
     "日記/10月.md",
