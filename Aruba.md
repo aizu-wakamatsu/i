@@ -15,9 +15,9 @@ https://cdn.support.hpe.com/connect/s/product?cep=on&kmpmoid=1009433152&tab=manu
 起動直後にenter
 ```
 apboot> setenv ipaddr ___.___.___.___
-apboot> setenv netmask ___.___.___.___
-apboot> setenv gatewayip ___.___.___.___  
-apboot> setenv dnsip ___.___.___.___
+apboot> setenv netmask 255.255.255.0
+apboot> setenv gatewayip 192.168.
+apboot> setenv dnsip 192.168.
 apboot> setenv name <hostname>
 apboot> saveenv
 apboot> boot
