@@ -25,6 +25,8 @@ apboot> boot
 ```
 
 # Uplink WLAN
+## GUI
+拡張SSIDを無効にする
 ## 構成
 ```
 (Instant AP) # config
