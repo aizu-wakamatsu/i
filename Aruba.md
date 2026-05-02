@@ -1,3 +1,4 @@
+https://cdn.support.hpe.com/connect/s/product?cep=on&kmpmoid=1009433152&tab=manuals
 # シリアルポートの設定
 
 |              |      |
