@@ -11,10 +11,17 @@
             "id": "67c0b8e04837314d",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "新規タブ"
+              "type": "canvas",
+              "state": {
+                "file": "無題のファイル.canvas",
+                "viewState": {
+                  "x": -1557.6925916559603,
+                  "y": -272.4272862760103,
+                  "zoom": 1.1102230246251565e-16
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "無題のファイル"
             }
           }
         ]
@@ -190,12 +197,12 @@
   },
   "active": "67c0b8e04837314d",
   "lastOpenFiles": [
+    "無題のファイル 1.md",
+    "無題のファイル.canvas",
+    "TV.md",
     "Aruba.md",
     "日記/11月.md",
     "日記/９月.md",
-    "無題のファイル.canvas",
-    "TV.md",
-    "無題のファイル 1.md",
     "自宅.md",
     "README.md",
     "日記/12月.md",
