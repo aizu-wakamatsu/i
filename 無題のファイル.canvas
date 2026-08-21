@@ -110,7 +110,7 @@
 		{"id":"6abb9274844ffc15","type":"text","text":"54/55","x":-640,"y":-720,"width":140,"height":60,"color":"#000000"},
 		{"id":"69f1e8072e359954","type":"text","text":"58/60","x":-500,"y":-720,"width":140,"height":60,"color":"#000000"},
 		{"id":"a01876bde3e0b210","type":"text","text":"65","x":-360,"y":-720,"width":140,"height":60,"color":"#000000"},
-		{"id":"3f7c3c3491a88d64","type":"text","text":"75/77/103","x":-220,"y":-720,"width":140,"height":60,"color":"#000000"},
+		{"id":"3f7c3c3491a88d64","type":"text","text":"75/77/85","x":-220,"y":-720,"width":140,"height":60,"color":"#000000"},
 		{"id":"1406ef1e4b3d8ebe","type":"text","text":"2012","x":-2460,"y":1420,"width":120,"height":450,"color":"#000000"},
 		{"id":"2bd6e7a562b02f31","type":"text","text":"L42DT5","x":-1060,"y":1420,"width":140,"height":50,"color":"#000000"},
 		{"id":"fee966e9b1e3fdd6","type":"text","text":"L47DT5","x":-920,"y":1420,"width":140,"height":50,"color":"#000000"},
@@ -154,7 +154,13 @@
 		{"id":"336030fc12ed46ff","type":"text","text":"L42E60","x":-1060,"y":2050,"width":140,"height":50,"color":"#000000"},
 		{"id":"1aa126af25c6f7dc","type":"text","text":"L50E60","x":-780,"y":2050,"width":140,"height":50,"color":"#000000"},
 		{"id":"8637ab61d5e43a15","type":"text","text":"L32X6","x":-1340,"y":2100,"width":140,"height":50,"color":"#000000"},
-		{"id":"e45597aaca291c58","type":"text","text":"L32X6","x":-968,"y":1820,"width":140,"height":50,"color":"#000000"}
+		{"id":"e45597aaca291c58","type":"text","text":"L24X6","x":-1620,"y":2100,"width":140,"height":50,"color":"#000000"},
+		{"id":"9f81f0f93ca68420","type":"text","text":"L50C65","x":-780,"y":2150,"width":140,"height":50,"color":"#000000"},
+		{"id":"a1055d45d18a4356","type":"text","text":"L50C60","x":-780,"y":2200,"width":140,"height":50,"color":"#000000"},
+		{"id":"2de82fa3bef5fc36","type":"text","text":"L39C60","x":-1200,"y":2200,"width":140,"height":50,"color":"#000000"},
+		{"id":"9918dea1de5398ee","type":"text","text":"L32C6","x":-1340,"y":2250,"width":140,"height":50,"color":"#000000"},
+		{"id":"83852a2fe0207885","type":"text","text":"L24C6","x":-1620,"y":2250,"width":140,"height":50,"color":"#000000"},
+		{"id":"934216b0f32a56a3","type":"text","text":"103","x":-80,"y":-720,"width":140,"height":60,"color":"#000000"}
 	],
 	"edges":[]
 }
