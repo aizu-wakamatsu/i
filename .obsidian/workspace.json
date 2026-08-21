@@ -4,24 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "5e025fe48242f5e9",
+        "id": "e60ef89819f00bd9",
         "type": "tabs",
         "children": [
           {
-            "id": "67c0b8e04837314d",
+            "id": "3efd35ea92200516",
             "type": "leaf",
             "state": {
               "type": "canvas",
               "state": {
-                "file": "無題のファイル.canvas",
+                "file": "VIERA.canvas",
                 "viewState": {
-                  "x": -661.7506799890789,
-                  "y": 4718.412242390168,
-                  "zoom": 0.3333333333333334
+                  "x": -1140,
+                  "y": 2640,
+                  "zoom": -1.8737536728030963
                 }
               },
               "icon": "lucide-layout-dashboard",
-              "title": "無題のファイル"
+              "title": "VIERA"
             }
           }
         ]
@@ -195,10 +195,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "67c0b8e04837314d",
+  "active": "3efd35ea92200516",
   "lastOpenFiles": [
+    "VIERA.canvas",
     "無題のファイル 1.md",
-    "無題のファイル.canvas",
     "TV.md",
     "Aruba.md",
     "日記/11月.md",
