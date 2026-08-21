@@ -74,8 +74,13 @@
 		{"id":"6a487089660b815e","type":"text","text":"20LX70","x":-2040,"y":10,"width":140,"height":50,"color":"#000000"},
 		{"id":"6f2e40685e1158ca","type":"text","text":"2008","x":-2460,"y":80,"width":120,"height":100,"color":"#000000"},
 		{"id":"a007d6e8db13cdab","type":"text","text":"17LX8","x":-2320,"y":80,"width":140,"height":50,"color":"#000000"},
-		{"id":"f534fd09ba9d23ed","type":"text","text":"32/37LZ85","x":-1340,"y":80,"width":280,"height":50,"color":"#000000"},
-		{"id":"b8d2a3ccfc0d4757","type":"text","text":"32/37LZ80","x":-1340,"y":130,"width":280,"height":50,"color":"#000000"}
+		{"id":"f534fd09ba9d23ed","type":"text","text":"32LZ85","x":-1340,"y":80,"width":140,"height":50,"color":"#000000"},
+		{"id":"b8d2a3ccfc0d4757","type":"text","text":"32LZ80","x":-1340,"y":130,"width":140,"height":50,"color":"#000000"},
+		{"id":"9dbebe11168aed49","type":"text","text":"37LZ85","x":-1200,"y":80,"width":140,"height":50,"color":"#000000"},
+		{"id":"19a7b13fad31fdb1","type":"text","text":"37LZ80","x":-1200,"y":130,"width":140,"height":50,"color":"#000000"},
+		{"id":"43fb70d75ccf5767","type":"text","text":"26LX80","x":-1620,"y":180,"width":140,"height":50,"color":"#000000"},
+		{"id":"ea0cc765f7f7fb26","type":"text","text":"32LX80","x":-1480,"y":180,"width":140,"height":50,"color":"#000000"},
+		{"id":"abc2e71cc957c3ce","type":"text","text":"20LX80","x":-2040,"y":180,"width":140,"height":50,"color":"#000000"}
 	],
 	"edges":[]
 }
