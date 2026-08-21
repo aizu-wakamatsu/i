@@ -185,7 +185,7 @@
 		{"id":"b8c1219afc81c64e","type":"text","text":"2016","x":-2600,"y":2350,"width":120,"height":100,"color":"#000000"},
 		{"id":"c610b54a447282d1","type":"text","text":"2017","x":-2600,"y":2470,"width":120,"height":100,"color":"#000000"},
 		{"id":"80b502fc9ace2ee6","type":"text","text":"2018","x":-2600,"y":2590,"width":120,"height":100,"color":"#000000"},
-		{"id":"db766c5ccafb6e39","type":"text","text":"2015","x":-2340,"y":2940,"width":120,"height":100,"color":"#000000"},
+		{"id":"db766c5ccafb6e39","type":"text","text":"2015","x":-2340,"y":2940,"width":120,"height":450,"color":"#000000"},
 		{"id":"b3179c038e4bc06e","type":"text","text":"55CX800N","x":-640,"y":2940,"width":140,"height":50,"color":"#000000"},
 		{"id":"63886d8705502af4","type":"text","text":"50CX700","x":-780,"y":3040,"width":140,"height":50,"color":"#000000"},
 		{"id":"b9faf99509dde387","type":"text","text":"50C305","x":-780,"y":3290,"width":140,"height":50,"color":"#000000"},
