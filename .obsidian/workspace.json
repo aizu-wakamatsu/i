@@ -13,15 +13,15 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "VIERA.canvas",
+                "file": "Intel Core.canvas",
                 "viewState": {
-                  "x": -1140,
-                  "y": 2640,
-                  "zoom": -1.8737536728030963
+                  "x": -1993.9074840779417,
+                  "y": -636.1695775336427,
+                  "zoom": 0.79291299386357
                 }
               },
               "icon": "lucide-layout-dashboard",
-              "title": "VIERA"
+              "title": "Intel Core"
             }
           }
         ]
@@ -198,6 +198,7 @@
   "active": "3efd35ea92200516",
   "lastOpenFiles": [
     "VIERA.canvas",
+    "Intel Core.canvas",
     "無題のファイル 1.md",
     "TV.md",
     "Aruba.md",
