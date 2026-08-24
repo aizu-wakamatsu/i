@@ -445,9 +445,7 @@
 		{"id":"caae9965247d92c0","type":"text","text":"Tiger Lake-H35","x":-2640,"y":7470,"width":280,"height":50,"color":"#800000"},
 		{"id":"42c4b762b116426f","type":"text","text":"Tiger Lake-UP3","x":-2640,"y":7520,"width":280,"height":50,"color":"#808000"},
 		{"id":"e126e87662d7bb5e","type":"text","text":"Tiger Lake-UP4","x":-2640,"y":7570,"width":280,"height":50,"color":"#008000"},
-		{"id":"aa2c63a4d9dce0eb","type":"text","text":"12th","x":-2340,"y":8000,"width":120,"height":300,"color":"#000000"},
-		{"id":"2fe11ee96ddbe6b8","type":"text","text":"2020","x":-2340,"y":8320,"width":120,"height":300,"color":"#000000"},
-		{"id":"a9e7b55cf48f952e","type":"text","text":"2021","x":-2340,"y":8640,"width":120,"height":300,"color":"#000000"},
+		{"id":"aa2c63a4d9dce0eb","type":"text","text":"12th","x":-2340,"y":8000,"width":120,"height":650,"color":"#000000"},
 		{"id":"1d77ed65e764480e","type":"text","text":"Alder Lake-HX","x":-2640,"y":8000,"width":280,"height":50,"color":"#800080"},
 		{"id":"452c13933e90f053","type":"text","text":"Alder Lake-H","x":-2640,"y":8050,"width":280,"height":50,"color":"#800000"},
 		{"id":"7232eb76b2d4f7f4","type":"text","text":"Alder Lake-P","x":-2640,"y":8100,"width":280,"height":50,"color":"#808000"},
@@ -457,7 +455,20 @@
 		{"id":"44d8329f725d67db","type":"text","text":"12650HX","x":-1760,"y":8100,"width":140,"height":50,"color":"#800080"},
 		{"id":"86d327ffdbf3fa78","type":"text","text":"12800H","x":-1760,"y":8150,"width":140,"height":50,"color":"#800000"},
 		{"id":"ed0ae9e805b20604","type":"text","text":"12700H","x":-1760,"y":8200,"width":140,"height":50,"color":"#800000"},
-		{"id":"306b8d8ee606d1ea","type":"text","text":"12650H","x":-1760,"y":8250,"width":140,"height":50,"color":"#800000"}
+		{"id":"306b8d8ee606d1ea","type":"text","text":"12650H","x":-1760,"y":8250,"width":140,"height":50,"color":"#800000"},
+		{"id":"55b1b15f70a44570","type":"text","text":"1280P","x":-1760,"y":8300,"width":140,"height":50,"color":"#808000"},
+		{"id":"56d53db020c0ed90","type":"text","text":"1270P","x":-1760,"y":8350,"width":140,"height":50,"color":"#808000"},
+		{"id":"8862815c64b00907","type":"text","text":"1260P","x":-1760,"y":8400,"width":140,"height":50,"color":"#808000"},
+		{"id":"e8368d0e263071f9","type":"text","text":"1265U","x":-1760,"y":8450,"width":140,"height":50,"color":"#008000"},
+		{"id":"a7699ce779eff2a2","type":"text","text":"1255U","x":-1760,"y":8500,"width":140,"height":50,"color":"#008000"},
+		{"id":"8e3b13fcf911db32","type":"text","text":"1260U","x":-1760,"y":8550,"width":140,"height":50,"color":"#008000"},
+		{"id":"0a73b0a5a5b2c8e4","type":"text","text":"1250U","x":-1760,"y":8600,"width":140,"height":50,"color":"#008000"},
+		{"id":"a9e7b55cf48f952e","type":"text","text":"2021","x":-2400,"y":9260,"width":120,"height":300,"color":"#000000"},
+		{"id":"2fe11ee96ddbe6b8","type":"text","text":"2020","x":-2340,"y":8680,"width":120,"height":300,"color":"#000000"},
+		{"id":"bd394da32a81d0e4","type":"text","text":"8086K","x":-1900,"y":5045,"width":140,"height":50,"color":"#000000"},
+		{"id":"13fc075a2e29d415","type":"text","text":"8700K","x":-1900,"y":5095,"width":140,"height":50,"color":"#000000"},
+		{"id":"b8f8a5619b015218","type":"text","text":"8700","x":-1900,"y":5145,"width":140,"height":50,"color":"#000000"},
+		{"id":"c3f66d06559e0508","type":"text","text":"6498DU","x":-1900,"y":5195,"width":140,"height":50,"color":"#000000"}
 	],
 	"edges":[]
 }
