@@ -387,7 +387,12 @@
 		{"id":"e9669dd3989fdd98","type":"text","text":"L47FT60","x":-1760,"y":7540,"width":140,"height":50,"color":"#000000"},
 		{"id":"9f81f0f93ca68420","type":"text","text":"L50C65","x":-1760,"y":7590,"width":140,"height":50,"color":"#000000"},
 		{"id":"a1055d45d18a4356","type":"text","text":"L50C60","x":-1760,"y":7640,"width":140,"height":50,"color":"#000000"},
-		{"id":"1aa126af25c6f7dc","type":"text","text":"L50E60","x":-1760,"y":7690,"width":140,"height":50,"color":"#000000"}
+		{"id":"1aa126af25c6f7dc","type":"text","text":"L50E60","x":-1760,"y":7690,"width":140,"height":50,"color":"#000000"},
+		{"id":"0e8a9d0e78eab8b0","type":"text","text":"Comet Lake-U","x":-2740,"y":7085,"width":280,"height":50,"color":"#800000"},
+		{"id":"e3d2d684de41f309","type":"text","text":"Comet Lake-H","x":-2740,"y":7035,"width":280,"height":50,"color":"#800080"},
+		{"id":"2f10326ccd7e3f1b","type":"text","text":"Ice Lake-U","x":-2740,"y":7135,"width":280,"height":50,"color":"#808000"},
+		{"id":"f852936cf661db8e","type":"text","text":"Ice Lake-Y","x":-2740,"y":7185,"width":280,"height":50,"color":"#008000"},
+		{"id":"181efa5fc6963574","type":"text","text":"10510Y","x":-2740,"y":6985,"width":140,"height":50,"color":"#000080"}
 	],
 	"edges":[]
 }
