@@ -534,7 +534,18 @@
 		{"id":"f2abf7fa693d54fe","type":"text","text":"Haswell-M","x":-2640,"y":2390,"width":280,"height":50,"color":"#00c080"},
 		{"id":"b224c8d6a8393847","type":"text","text":"Haswell-H","x":-2640,"y":2440,"width":280,"height":50,"color":"#008000"},
 		{"id":"98ec28f447058ade","type":"text","text":"Haswell-U","x":-2640,"y":2490,"width":280,"height":50,"color":"#0080ff"},
-		{"id":"30ebbd447abff459","type":"text","text":"Haswell-Y","x":-2640,"y":2540,"width":280,"height":50,"color":"#8000c0"}
+		{"id":"30ebbd447abff459","type":"text","text":"Haswell-Y","x":-2640,"y":2540,"width":280,"height":50,"color":"#8000c0"},
+		{"id":"4ba8ed1a2a55355f","type":"text","text":"7980XE","x":-2180,"y":5045,"width":140,"height":50,"color":"#ff0000"},
+		{"id":"8b0d795243ec389c","type":"text","text":"7960X","x":-2180,"y":5095,"width":140,"height":50,"color":"#ff0000"},
+		{"id":"0dbee4de3b020f36","type":"text","text":"7940X","x":-2180,"y":5145,"width":140,"height":50,"color":"#ff0000"},
+		{"id":"9c5be369935f8cfc","type":"text","text":"7920X","x":-2180,"y":5195,"width":140,"height":50,"color":"#ff0000"},
+		{"id":"787bc5b7a1f5eb8d","type":"text","text":"7900X","x":-2180,"y":5245,"width":140,"height":50,"color":"#ff0000"},
+		{"id":"cd5445a47635b02d","type":"text","text":"7980XE","x":-2180,"y":5560,"width":140,"height":50,"color":"#ff0000"},
+		{"id":"88d7be5879708462","type":"text","text":"8950HK","x":-2040,"y":5560,"width":140,"height":50,"color":"#008000"},
+		{"id":"767f465125c683fb","type":"text","text":"9980HK","x":-2040,"y":6380,"width":140,"height":50,"color":"#008000"},
+		{"id":"b458a404ba0534db","type":"text","text":"9880H","x":-2040,"y":6430,"width":140,"height":50,"color":"#008000"},
+		{"id":"12b93030857652fa","type":"text","text":"10980HK","x":-2040,"y":6700,"width":140,"height":50,"color":"#008000"},
+		{"id":"ae0a6ba5739c2158","type":"text","text":"10885H","x":-2040,"y":6750,"width":140,"height":50,"color":"#008000"}
 	],
 	"edges":[
 		{"id":"9892b9542cd48c14","fromNode":"0df3dc447dbb39ba","fromSide":"top","toNode":"58a320059b29ea90","toSide":"bottom"}
