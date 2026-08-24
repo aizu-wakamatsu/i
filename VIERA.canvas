@@ -318,7 +318,9 @@
 		{"id":"0a68931f532b7b92","type":"text","text":"32H300","x":-1340,"y":5150,"width":140,"height":50,"color":"#000000"},
 		{"id":"eff089439b1d8742","type":"text","text":"24H300","x":-1620,"y":5150,"width":140,"height":50,"color":"#000000"},
 		{"id":"a9e7b55cf48f952e","type":"text","text":"2021","x":-2340,"y":5220,"width":120,"height":300,"color":"#000000"},
-		{"id":"2fe89b07ad8b2d39","type":"text","text":"2021","x":-2340,"y":5700,"width":120,"height":300,"color":"#000000"}
+		{"id":"2fe89b07ad8b2d39","type":"text","text":"2021","x":-2340,"y":5700,"width":120,"height":300,"color":"#000000"},
+		{"id":"415edab081281caf","type":"text","text":"00PX100\n０0LX１００\n00PX10\n00LX10","x":-2500,"y":-640,"width":140,"height":920,"color":"#000000"},
+		{"id":"8236be0b301c3901","type":"text","text":"L00\nL00A1\nP00A1\n","x":-2500,"y":300,"width":140,"height":920,"color":"#000000"}
 	],
 	"edges":[]
 }
