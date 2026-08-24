@@ -481,7 +481,7 @@
 		{"id":"9a9b8720bb6be268","type":"text","text":"255-255-0","x":-3520,"y":2135,"width":280,"height":50,"color":"#ffff00"},
 		{"id":"8173fe1955d56f9f","type":"text","text":"0-255-0","x":-3520,"y":2185,"width":280,"height":55,"color":"#00ff00"},
 		{"id":"e3007b161307136c","type":"text","text":"128-0-0","x":-3240,"y":2085,"width":280,"height":50,"color":"#800000"},
-		{"id":"03d9743c1a46deac","type":"text","text":"128-0-0","x":-2882,"y":2312,"width":280,"height":50,"color":"#ff8000"}
+		{"id":"03d9743c1a46deac","type":"text","text":"255-128-0","x":-3240,"y":2135,"width":280,"height":50,"color":"#ff8000"}
 	],
 	"edges":[]
 }
