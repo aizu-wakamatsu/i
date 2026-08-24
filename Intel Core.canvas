@@ -1,6 +1,5 @@
 {
 	"nodes":[
-		{"id":"60da746fdb078a95","x":-2007,"y":5942,"width":250,"height":60,"type":"text","text":""},
 		{"id":"75506b8c57b10cdb","type":"text","text":"2820QM","x":-1759,"y":541,"width":250,"height":60},
 		{"id":"657ffc0f0041cce0","type":"text","text":"32","x":-1340,"y":-720,"width":140,"height":60,"color":"#000000"},
 		{"id":"7a851ef89b1cbfa5","type":"text","text":"26","x":-1480,"y":-720,"width":140,"height":60,"color":"#000000"},
@@ -222,7 +221,7 @@
 		{"id":"483214aac960537a","type":"text","text":"6567U","x":-1760,"y":4670,"width":140,"height":50,"color":"#000000"},
 		{"id":"00ddea83c48ac5be","type":"text","text":"692HQ","x":-1760,"y":4470,"width":140,"height":50,"color":"#000000"},
 		{"id":"9815229178d11db3","type":"text","text":"6820HK","x":-1760,"y":4520,"width":140,"height":50,"color":"#000000"},
-		{"id":"5f3fa8c554b31df4","type":"text","text":"6820HQ!","x":-1760,"y":4570,"width":140,"height":50,"color":"#000000"},
+		{"id":"5f3fa8c554b31df4","type":"text","text":"6820HQ","x":-1760,"y":4570,"width":140,"height":50,"color":"#000000"},
 		{"id":"9b847d6ce0107886","type":"text","text":"6770HQ","x":-1760,"y":4420,"width":140,"height":50,"color":"#000000"},
 		{"id":"70d813a73408771a","type":"text","text":"7th","x":-2340,"y":5045,"width":120,"height":500,"color":"#000000"},
 		{"id":"bcc0b319f14c3e73","type":"text","text":"7920HQ","x":-1760,"y":5045,"width":140,"height":50,"color":"#800080"},
@@ -256,7 +255,7 @@
 		{"id":"ec8d8c8231c1072e","type":"text","text":"9850H","x":-1760,"y":6380,"width":140,"height":50,"color":"#000000"},
 		{"id":"c98585879c0f1913","type":"text","text":"9750H","x":-1760,"y":6430,"width":140,"height":50,"color":"#000000"},
 		{"id":"aeed83fac6d5eaab","type":"text","text":"9750HF","x":-1760,"y":6480,"width":140,"height":50,"color":"#000000"},
-		{"id":"bebf9baca6f0620a","type":"text","text":"10510Y","x":-1760,"y":6660,"width":140,"height":50,"color":"#000080"},
+		{"id":"bebf9baca6f0620a","type":"text","text":"10510Y","x":-1760,"y":6660,"width":140,"height":50,"color":"#00ff80"},
 		{"id":"12ef3553d5ad4e0a","type":"text","text":"10875H","x":-1760,"y":6710,"width":140,"height":50,"color":"#800080"},
 		{"id":"fa17924c6150171e","type":"text","text":"42AS650","x":-2200,"y":9560,"width":140,"height":50,"color":"#000000"},
 		{"id":"a233d2ed01fcffa6","type":"text","text":"42AS600","x":-2200,"y":9660,"width":140,"height":50,"color":"#000000"},
@@ -393,7 +392,7 @@
 		{"id":"e3d2d684de41f309","type":"text","text":"Comet Lake-H","x":-2740,"y":7035,"width":280,"height":50,"color":"#800080"},
 		{"id":"2f10326ccd7e3f1b","type":"text","text":"Ice Lake-U","x":-2740,"y":7135,"width":280,"height":50,"color":"#808000"},
 		{"id":"f852936cf661db8e","type":"text","text":"Ice Lake-Y","x":-2740,"y":7185,"width":280,"height":50,"color":"#008000"},
-		{"id":"181efa5fc6963574","type":"text","text":"Amber Lake-Y Refresh","x":-2740,"y":6985,"width":280,"height":50,"color":"#000080"},
+		{"id":"181efa5fc6963574","type":"text","text":"Amber Lake-Y Refresh","x":-2740,"y":6985,"width":280,"height":50,"color":"#00ff80"},
 		{"id":"ce6149e214b5b4e5","type":"text","text":"Kaby Lake-G","x":-2640,"y":5560,"width":280,"height":50,"color":"#008080"},
 		{"id":"c8a4d284ba0e9569","type":"text","text":"Kaby Lake-U Refresh","x":-2640,"y":5610,"width":280,"height":50,"color":"#ff0080"},
 		{"id":"d4e51bde07dcd2fe","type":"text","text":"Amber Lake-Y","x":-2640,"y":5660,"width":280,"height":50,"color":"#008000"},
@@ -403,7 +402,10 @@
 		{"id":"7eb2084969908614","type":"text","text":"Coffee Lake-H","x":-2640,"y":5760,"width":280,"height":50,"color":"#800080"},
 		{"id":"74b0bde009087cdc","type":"text","text":"Coffee Lake-U","x":-2640,"y":5810,"width":280,"height":50,"color":"#800000"},
 		{"id":"4c260763352adfa6","type":"text","text":"Whiskey Lake-U","x":-2640,"y":5860,"width":280,"height":50,"color":"#808000"},
-		{"id":"abfa178090fd36e2","type":"text","text":"Kaby Lake-Y","x":-2640,"y":5145,"width":280,"height":50,"color":"#008000"}
+		{"id":"abfa178090fd36e2","type":"text","text":"Kaby Lake-Y","x":-2640,"y":5145,"width":280,"height":50,"color":"#008000"},
+		{"id":"7f505362c3a03cdd","type":"text","text":"Clarksfield","x":-2660,"y":-465,"width":280,"height":50,"color":"#800080"},
+		{"id":"21855b5624328676","type":"text","text":"Westmare","x":-2660,"y":-415,"width":280,"height":50,"color":"#800000"},
+		{"id":"b886dc9dcd6e0434","type":"text","text":"990X","x":-2660,"y":-515,"width":140,"height":50,"color":"#ff0000"}
 	],
 	"edges":[]
 }
