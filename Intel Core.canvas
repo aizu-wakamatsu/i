@@ -410,7 +410,11 @@
 		{"id":"83062ed6b1c7174a","type":"text","text":"Gulftown (Extreme)","x":-2640,"y":-440,"width":280,"height":50,"color":"#0000ff"},
 		{"id":"40b3666ba2a8d43b","type":"text","text":"Gulftown","x":-2640,"y":-390,"width":280,"height":50,"color":"#000080"},
 		{"id":"0cdb82ec1a06ed7e","type":"text","text":"Bloomfield","x":-2640,"y":-590,"width":280,"height":50,"color":"#008000"},
-		{"id":"a050a2efd22a804a","type":"text","text":"Bloomfield (Extreme)","x":-2640,"y":-640,"width":280,"height":50,"color":"#00ff00"}
+		{"id":"a050a2efd22a804a","type":"text","text":"Bloomfield (Extreme)","x":-2640,"y":-640,"width":280,"height":50,"color":"#00ff00"},
+		{"id":"97f71efa087a14a9","type":"text","text":"3970X","x":-1899,"y":1160,"width":140,"height":50,"color":"#000000"},
+		{"id":"30bc8141274be6f2","type":"text","text":"3960X","x":-1899,"y":1210,"width":140,"height":50,"color":"#000000"},
+		{"id":"e5cd3228775e89bc","type":"text","text":"3930K","x":-1899,"y":1260,"width":140,"height":50,"color":"#000000"},
+		{"id":"4ab8412a6b282dbf","type":"text","text":"3820","x":-1899,"y":1310,"width":140,"height":50,"color":"#000000"}
 	],
 	"edges":[]
 }
