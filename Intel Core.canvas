@@ -451,7 +451,6 @@
 		{"id":"5deabc9855c24d8f","type":"text","text":"14700KF","x":-1900,"y":9305,"width":140,"height":50,"color":"#ff8000"},
 		{"id":"a60e73ee961fa3d9","type":"text","text":"14700","x":-1900,"y":9355,"width":140,"height":50,"color":"#ff8000"},
 		{"id":"a6c50a55bfefbcfa","type":"text","text":"14700F","x":-1900,"y":9405,"width":140,"height":50,"color":"#ff8000"},
-		{"id":"58a320059b29ea90","type":"text","text":"14700T","x":-1900,"y":9455,"width":140,"height":50,"color":"#ff8000"},
 		{"id":"63886d8705502af4","type":"text","text":"14790F","x":-1900,"y":9205,"width":140,"height":50,"color":"#ff8000"},
 		{"id":"c7b1ee02d2f3ee90","type":"text","text":"13700","x":-1900,"y":8875,"width":140,"height":50,"color":"#ff8000"},
 		{"id":"9b20d25c38d87c0d","type":"text","text":"13700KF","x":-1900,"y":8825,"width":140,"height":50,"color":"#ff8000"},
@@ -560,9 +559,36 @@
 		{"id":"1e319e4b38410644","type":"text","text":"13900HK","x":-2040,"y":8925,"width":140,"height":50,"color":"#008000"},
 		{"id":"c68dbefd0db13a22","type":"text","text":"13905H","x":-2040,"y":8825,"width":140,"height":50,"color":"#008000"},
 		{"id":"dc48c074a0190414","type":"text","text":"13900HX","x":-2040,"y":8875,"width":140,"height":50,"color":"#ff0000"},
-		{"id":"fd971e17bcde7877","type":"text","text":"14900HX","x":-2040,"y":9205,"width":140,"height":50,"color":"#ff0000"}
+		{"id":"fd971e17bcde7877","type":"text","text":"14900HX","x":-2040,"y":9205,"width":140,"height":50,"color":"#ff0000"},
+		{"id":"22c07f6edd304750","type":"text","text":"14900K","x":-2180,"y":9255,"width":140,"height":50,"color":"#ff8000"},
+		{"id":"ad43c8b2b802cc81","type":"text","text":"14900KF","x":-2180,"y":9305,"width":140,"height":50,"color":"#ff8000"},
+		{"id":"910ad5afdf74cb24","type":"text","text":"14900","x":-2180,"y":9355,"width":140,"height":50,"color":"#ff8000"},
+		{"id":"4933c077297508b5","type":"text","text":"14900F","x":-2180,"y":9405,"width":140,"height":50,"color":"#ff8000"},
+		{"id":"c01bee6f42a9fea8","type":"text","text":"14900T","x":-2180,"y":9455,"width":140,"height":50,"color":"#ff8000"},
+		{"id":"48e8658d98d7f529","type":"text","text":"14900KS","x":-2180,"y":9205,"width":140,"height":50,"color":"#ff8000"},
+		{"id":"f1c741c177f84dab","type":"text","text":"14700T","x":-1900,"y":9455,"width":140,"height":50,"color":"#ff8000"},
+		{"id":"744368fd3876a882","type":"text","text":"14900K","x":-2180,"y":8775,"width":140,"height":50,"color":"#ff8000"},
+		{"id":"0c0a73326ec27601","type":"text","text":"13900KF","x":-2180,"y":8825,"width":140,"height":50,"color":"#ff8000"},
+		{"id":"d848a6a43c8b0bdd","type":"text","text":"13900","x":-2180,"y":8875,"width":140,"height":50,"color":"#ff8000"},
+		{"id":"e84dd989af8c225a","type":"text","text":"13900F","x":-2180,"y":8925,"width":140,"height":50,"color":"#ff8000"},
+		{"id":"6261b270ac55f31e","type":"text","text":"14900T","x":-2180,"y":8975,"width":140,"height":50,"color":"#ff8000"},
+		{"id":"4d845b2ecfe76cb9","type":"text","text":"13900KS","x":-2180,"y":8725,"width":140,"height":50,"color":"#ff8000"},
+		{"id":"301bc0ff9ca4c54d","type":"text","text":"12900K","x":-2180,"y":8095,"width":140,"height":50,"color":"#ff8000"},
+		{"id":"62ad75f54e084156","type":"text","text":"12900KF","x":-2180,"y":8145,"width":140,"height":50,"color":"#ff8000"},
+		{"id":"3e9366edd85aec35","type":"text","text":"12900","x":-2180,"y":8195,"width":140,"height":50,"color":"#ff8000"},
+		{"id":"391dc08521e898f7","type":"text","text":"12900F","x":-2180,"y":8245,"width":140,"height":50,"color":"#ff8000"},
+		{"id":"5e2363686f533ccd","type":"text","text":"12900T","x":-2180,"y":8295,"width":140,"height":50,"color":"#ff8000"},
+		{"id":"93e8146da29deedf","type":"text","text":"12900KS","x":-2180,"y":8045,"width":140,"height":50,"color":"#ff8000"},
+		{"id":"5da44902700725e5","type":"text","text":"11900K","x":-2180,"y":7415,"width":140,"height":50,"color":"#ff8000"},
+		{"id":"925ff8bce8d8007b","type":"text","text":"11900KF","x":-2180,"y":7465,"width":140,"height":50,"color":"#ff8000"},
+		{"id":"6d05a0ffd3167d57","type":"text","text":"11900","x":-2180,"y":7515,"width":140,"height":50,"color":"#ff8000"},
+		{"id":"ece221302af5c01b","type":"text","text":"11900F","x":-2180,"y":7565,"width":140,"height":50,"color":"#ff8000"},
+		{"id":"0dfc0dfab30e41fd","type":"text","text":"11900T","x":-2180,"y":7615,"width":140,"height":50,"color":"#ff8000"},
+		{"id":"420253134cfa5cd8","type":"text","text":"9900KS","x":-2180,"y":6380,"width":140,"height":50,"color":"#ff8000"},
+		{"id":"021e38ed500060da","type":"text","text":"9900K","x":-2180,"y":6430,"width":140,"height":50,"color":"#ff8000"},
+		{"id":"e3e4b7533591903c","type":"text","text":"9900KF","x":-2180,"y":6480,"width":140,"height":50,"color":"#ff8000"},
+		{"id":"9106da264a63177d","type":"text","text":"9900F","x":-2180,"y":6530,"width":140,"height":50,"color":"#ff8000"},
+		{"id":"67085fc15bf3bb77","type":"text","text":"9900T","x":-2180,"y":6580,"width":140,"height":50,"color":"#ff8000"}
 	],
-	"edges":[
-		{"id":"9892b9542cd48c14","fromNode":"0df3dc447dbb39ba","fromSide":"top","toNode":"58a320059b29ea90","toSide":"bottom"}
-	]
+	"edges":[]
 }
