@@ -403,9 +403,13 @@
 		{"id":"74b0bde009087cdc","type":"text","text":"Coffee Lake-U","x":-2640,"y":5810,"width":280,"height":50,"color":"#800000"},
 		{"id":"4c260763352adfa6","type":"text","text":"Whiskey Lake-U","x":-2640,"y":5860,"width":280,"height":50,"color":"#808000"},
 		{"id":"abfa178090fd36e2","type":"text","text":"Kaby Lake-Y","x":-2640,"y":5145,"width":280,"height":50,"color":"#008000"},
-		{"id":"7f505362c3a03cdd","type":"text","text":"Clarksfield","x":-2660,"y":-465,"width":280,"height":50,"color":"#800080"},
-		{"id":"21855b5624328676","type":"text","text":"Westmare","x":-2660,"y":-415,"width":280,"height":50,"color":"#800000"},
-		{"id":"b886dc9dcd6e0434","type":"text","text":"990X","x":-2660,"y":-515,"width":140,"height":50,"color":"#ff0000"}
+		{"id":"f48f29ca233f2ee1","type":"text","text":"Lynnfield","x":-2660,"y":-565,"width":280,"height":50,"color":"#808000"},
+		{"id":"a050a2efd22a804a","type":"text","text":"Bloomfield","x":-2660,"y":-615,"width":280,"height":50,"color":"#00ff00"},
+		{"id":"b886dc9dcd6e0434","type":"text","text":"Westmere (Extreme)","x":-2660,"y":-365,"width":280,"height":50,"color":"#ff0000"},
+		{"id":"21855b5624328676","type":"text","text":"Westmere","x":-2660,"y":-315,"width":280,"height":50,"color":"#800000"},
+		{"id":"7f505362c3a03cdd","type":"text","text":"Clarksfield","x":-2660,"y":-515,"width":280,"height":50,"color":"#800080"},
+		{"id":"83062ed6b1c7174a","type":"text","text":"Gulftown (Extreme)","x":-2660,"y":-465,"width":280,"height":50,"color":"#ff0000"},
+		{"id":"40b3666ba2a8d43b","type":"text","text":"Gulftown","x":-2660,"y":-415,"width":280,"height":50,"color":"#800000"}
 	],
 	"edges":[]
 }
