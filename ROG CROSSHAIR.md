@@ -52,10 +52,15 @@ AM4/X570
 
 ---
 ![[crosshair8i.jpg]]
-CROSSHAIR VIII IMPACT
+CROSSHAIR VIII IMPACT (2019)
 AM4/X570
 
 ---
 ![[crosshair8d.jpg]]
-CROSSHAIR VIII Dark Hero / EXTREME
+CROSSHAIR VIII Dark Hero (2020)
+AM4/X570
+
+---
+![[crosshair8x.jpg]]
+CROSSHAIR VIII EXTREME (2021)
 AM4/X570
