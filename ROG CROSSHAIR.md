@@ -30,6 +30,6 @@ Crosshair V Formula (2011)
 AM3/990FX+SB950
 
 ---
-
+![[Pasted image 20260902224344.png]]
 Crosshair V Formula-Z (2012)
 AM3/990FX+SB950
