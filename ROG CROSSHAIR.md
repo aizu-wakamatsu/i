@@ -37,15 +37,25 @@ AM4/X370
 
 ---
 ![[crosshair6x.jpg]]
-CROSSHAIR VI EXTREME ()
+CROSSHAIR VI EXTREME (2017)
+AM4/X370
+
 ---
 ![[crosshair7h.jpg]]![[crosshair7hw.jpg]]
+CROSSHAIR VII HERO / CROSSHAIR VII HERO (WI-FI) (2018)
+AM4/X470
 
 ---
 ![[crosshair8hw.jpg]]![[crosshair8f.jpg]]
+CROSSHAIR VIII HERO (WI-FI) / CROSSHAIR VIII FORMULA (2019)
+AM4/X570
 
 ---
 ![[crosshair8i.jpg]]
+CROSSHAIR VIII IMPACT
+AM4/X570
 
 ---
 ![[crosshair8d.jpg]]
+CROSSHAIR VIII Dark Hero / EXTREME
+AM4/X570
