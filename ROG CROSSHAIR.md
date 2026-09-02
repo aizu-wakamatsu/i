@@ -1,35 +1,43 @@
-![[Pasted image 20260902223413.png]]
+![[crosshair1.jpg]]
 CROSSHAIR (2006)
 AM2/nForce 590 SLI MCP
 
 ---
-![[Pasted image 20260902223526.png]]
+![[crosshair2f.jpg]]
 Crosshair II Formula (2008)
 nVIDIA  
 AM2+/nForce 780a SLI
 
 ---
 
-![[Pasted image 20260902223730.png]]
+
+![[crosshair3f.jpg]]
 Crosshair III Formula (2009)
 AM3/790FX+SB750
 
 ---
-![[Pasted image 20260902224056.png]]
-Crosshair IV Formula (2010)
+![[crosshair4f.jpg]]![[crosshair4x.jpg]]
+Crosshair IV Formula (2010) / Crosshair IV Extreme (2010)
 AM3/890FX+SB850
 
 ---
-![[Pasted image 20260902223913.png]]
-Crosshair IV Extreme (2010)
-AM3/890FX+SB850
-
----
-![[Pasted image 20260902224307.png]]![[Pasted image 20260902224313.png]]
+![[crosshair5f.jpg]]![[crosshair5fz.jpg]]
 Crosshair V Formula (2011)
 AM3/990FX+SB950
 
 ---
-![[Pasted image 20260902224344.png]]![[crosshair1.jpg]]
+![[crosshair5fz.jpg]]
 Crosshair V Formula-Z (2012)
 AM3/990FX+SB950
+
+---
+![[crosshair6h.jpg]]![[crosshair6hw.jpg]]
+
+
+---
+![[crosshair6x.jpg]]
+
+---
+![[crosshair7h.jpg]]![[crosshair7hw.jpg]]
+
+---
