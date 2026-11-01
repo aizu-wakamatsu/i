@@ -37,9 +37,21 @@
               "icon": "lucide-file",
               "title": "ROG CROSSHAIR"
             }
+          },
+          {
+            "id": "5fa652d0fe16264f",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.14.4"
+              },
+              "icon": "lucide-book-up",
+              "title": "リリースノート 1.14.4"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -210,7 +222,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a3f3702fc85161cd",
+  "active": "5fa652d0fe16264f",
   "lastOpenFiles": [
     "crosshair8i.png",
     "crosshair8x.jpg",
