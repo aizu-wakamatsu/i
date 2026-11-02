@@ -49,9 +49,21 @@
               "icon": "lucide-book-up",
               "title": "リリースノート 1.14.4"
             }
+          },
+          {
+            "id": "09cfdbf0d6e320c6",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.14.5"
+              },
+              "icon": "lucide-book-up",
+              "title": "リリースノート 1.14.5"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -222,7 +234,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "5fa652d0fe16264f",
+  "active": "09cfdbf0d6e320c6",
   "lastOpenFiles": [
     "crosshair8i.png",
     "crosshair8x.jpg",
