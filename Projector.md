@@ -15,11 +15,17 @@
 | [TH-AE200](https://panasonic.jp/viera/products/TH-AE200.html)   | 858×484    | LCD   | 2002 | 700        |            |
 | [TH-AE100](https://panasonic.jp/viera/products/TH-AE100.html)   | 858×484    | LCD   | 2001 | 700        |            |
 ### SANYO
-| Model                                                         | Resolution | Panel | Year | Brightness | Lens Shift |
-| ------------------------------------------------------------- | ---------- | ----- | ---- | ---------- | ---------- |
-| [TH-AX200](https://panasonic.jp/viera/products/TH-AX200.html) | 1280×720   | LCD   | 2007 | 2000       | Y          |
-| [TH-AX100](https://panasonic.jp/viera/products/TH-AX100.html) | 1280×720   | LCD   | 2006 | 2000       | Y          |
-| LP-Z3000                                                      | 1920×1080  | LCD   | 2008 | 1600       | Y          |
+| Model    | Resolution | Panel | Year | Brightness | Lens Shift |
+| -------- | ---------- | ----- | ---- | ---------- | ---------- |
+| LP-Z3000 | 1920×1080  | LCD   | 2008 | 1200       | Y          |
+| LP-Z2000 | 1920×1080  | LCD   | 2007 | 1200       | Y          |
+| LP-Z5    | 1280×720   | LCD   | 2006 | 1100       | Y          |
+| LP-Z4    |            |       |      |            |            |
+| LP-Z3    |            |       |      |            |            |
+| LP-Z1X   |            |       |      |            |            |
+| LP-Z2    |            |       |      |            |            |
+| LP-Z1    |            |       | 2002 |            |            |
+| LP-Z     |            |       |      |            |            |
 
 ## 超短焦点モデル
 ### Panasonic
