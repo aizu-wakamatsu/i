@@ -28,13 +28,26 @@
 | LP-W1000 | １３６６×７６８   | LCD   | 2001 | 1200       |            |
 | LP-A7    | 800×600    | LCD   | 2000 | 500        |            |
 ### Sony
-| Model     | Resolution | Panel | Year | Brightness | Lens Shift |
-| --------- | ---------- | ----- | ---- | ---------- | ---------- |
-| VPL-VW855 |            |       |      |            |            |
-| VPL-VW555 |            |       |      |            |            |
-| VPL-VW255 |            |       |      |            |            |
-| VPL-VW745 |            |       |      |            |            |
-| VPL-VW245 |            |       |      |            |            |
+| Model        | Resolution | Panel | Year | Brightness | Lens Shift |
+| ------------ | ---------- | ----- | ---- | ---------- | ---------- |
+| VPL-VW855    |            | SXRD  | 2018 |            |            |
+| VPL-VW555    |            | SXRD  | 2018 |            |            |
+| VPL-VW255    |            | SXRD  | 2018 |            |            |
+| VPL-VW745    |            |       | 2017 |            |            |
+| VPL-VW245    |            |       | 2017 |            |            |
+| VPL-VW535    |            |       | 2016 |            |            |
+| VPL-VW515    |            |       | 2015 |            |            |
+| VPL-HW60     |            |       | 2015 |            |            |
+| VPL-HW55ES   |            |       | 2014 |            |            |
+| VPL-HW35ES   |            |       | 2014 |            |            |
+| VPL-VW1100ES |            |       |      |            |            |
+|              |            |       |      |            |            |
+|              |            |       |      |            |            |
+|              |            |       |      |            |            |
+|              |            |       |      |            |            |
+|              |            |       |      |            |            |
+|              |            |       |      |            |            |
+|              |            |       |      |            |            |
 ## 超短焦点モデル
 ### Panasonic
 
@@ -44,4 +57,4 @@
 ### Sony
 | Model      | Resolution | Panel | Year | Brightness | Lens Shift |
 | ---------- | ---------- | ----- | ---- | ---------- | ---------- |
-| VPL-VZ1000 |            |       |      | 25         |            |
+| VPL-VZ1000 | 4096×2160  | SXRD  | 2017 | 2500       | Y          |
