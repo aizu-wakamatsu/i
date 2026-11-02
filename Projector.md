@@ -63,6 +63,16 @@
 | [Q004-R1](https://www.sony.jp/products/Consumer/QUALIA/jp/products/004/) | 1920×1080  | SXRD  | 2003 | -          |            |
 | VPL-VW12HT                                                               |            | LCD   | 2002 | 1000       |            |
 | VPL-VW11HT                                                               |            | LCD   | 2001 | 1000       |            |
+|                                                                          |            |       |      |            |            |
+### Victor/JVC
+| Model   | Resolution  | Panel | Year | Brightness | Lens Shift |
+| ------- | ----------- | ----- | ---- | ---------- | ---------- |
+| DLA-V9R | 4,096×2,160 | D-ILA | 2018 | 2200       |            |
+| V7      |             | D-ILA | 2018 |            |            |
+| V5      |             | D-ILA | 2018 |            |            |
+|         |             |       |      |            |            |
+|         |             |       |      |            |            |
+|         |             |       |      |            |            |
 ## 超短焦点モデル
 ### Panasonic
 
