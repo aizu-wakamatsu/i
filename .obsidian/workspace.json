@@ -70,7 +70,7 @@
               "state": {
                 "file": "Projector.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
               "title": "Projector"
