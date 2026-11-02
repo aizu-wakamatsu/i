@@ -2,5 +2,6 @@
   "theme": "moonstone",
   "accentColor": "#5cf55f",
   "cssTheme": "Primary",
-  "textFontFamily": "BIZ UDP明朝"
+  "textFontFamily": "BIZ UDP明朝",
+  "nativeMenus": true
 }
