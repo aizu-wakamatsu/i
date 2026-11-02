@@ -68,11 +68,11 @@
 | Model     | Resolution        | Panel | Year | Brightness | Lens Shift |
 | --------- | ----------------- | ----- | ---- | ---------- | ---------- |
 | DLA-V9R   | 4096×2160         | D-ILA | 2018 | 2200       |            |
-| DLA-V7    |                   | D-ILA | 2018 |            |            |
-| DLA-V5    |                   | D-ILA | 2018 |            |            |
+| DLA-V7    |                   | D-ILA | 2018 | 1900       |            |
+| DLA-V5    |                   | D-ILA | 2018 | 1800       |            |
+| LX-UH1    | 3840×2160         | DLP   | 2018 | 2000       | Y          |
 | DLA-X990R | 3840×2160 e-shift | D-ILA | 2017 | 2000       | Y          |
 | DLA-X590R | 3840×2160 e-shift | D-ILA | 2017 | 1800       | Y          |
-|           |                   |       |      |            |            |
 ## 超短焦点モデル
 ### Panasonic
 
