@@ -65,14 +65,14 @@
 | VPL-VW11HT                                                               |            | LCD   | 2001 | 1000       |            |
 |                                                                          |            |       |      |            |            |
 ### Victor/JVC
-| Model   | Resolution  | Panel | Year | Brightness | Lens Shift |
-| ------- | ----------- | ----- | ---- | ---------- | ---------- |
-| DLA-V9R | 4,096×2,160 | D-ILA | 2018 | 2200       |            |
-| V7      |             | D-ILA | 2018 |            |            |
-| V5      |             | D-ILA | 2018 |            |            |
-|         |             |       |      |            |            |
-|         |             |       |      |            |            |
-|         |             |       |      |            |            |
+| Model     | Resolution        | Panel | Year | Brightness | Lens Shift |
+| --------- | ----------------- | ----- | ---- | ---------- | ---------- |
+| DLA-V9R   | 4096×2160         | D-ILA | 2018 | 2200       |            |
+| DLA-V7    |                   | D-ILA | 2018 |            |            |
+| DLA-V5    |                   | D-ILA | 2018 |            |            |
+| DLA-X990R | 3840×2160 e-shift | D-ILA | 2017 | 2000       | Y          |
+| DLA-X590R | 3840×2160 e-shift | D-ILA | 2017 | 1800       | Y          |
+|           |                   |       |      |            |            |
 ## 超短焦点モデル
 ### Panasonic
 
