@@ -80,12 +80,14 @@
             "id": "4a75c981b79a9322",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.15.0"
+                "file": "Projector.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-book-up",
-              "title": "リリースノート 1.15.0"
+              "icon": "lucide-file",
+              "title": "Projector"
             }
           }
         ],
