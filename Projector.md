@@ -28,26 +28,26 @@
 | LP-W1000 | １３６６×７６８   | LCD   | 2001 | 1200       |            |
 | LP-A7    | 800×600    | LCD   | 2000 | 500        |            |
 ### Sony
-| Model        | Resolution | Panel | Year | Brightness | Lens Shift |
-| ------------ | ---------- | ----- | ---- | ---------- | ---------- |
-| VPL-VW855    |            | SXRD  | 2018 |            |            |
-| VPL-VW555    |            | SXRD  | 2018 |            |            |
-| VPL-VW255    |            | SXRD  | 2018 |            |            |
-| VPL-VW745    |            |       | 2017 |            |            |
-| VPL-VW245    |            |       | 2017 |            |            |
-| VPL-VW535    |            |       | 2016 |            |            |
-| VPL-VW515    |            |       | 2015 |            |            |
-| VPL-HW60     |            |       | 2015 |            |            |
-| VPL-HW55ES   |            |       | 2014 |            |            |
-| VPL-HW35ES   |            |       | 2014 |            |            |
-| VPL-VW1100ES |            |       |      |            |            |
-|              |            |       |      |            |            |
-|              |            |       |      |            |            |
-|              |            |       |      |            |            |
-|              |            |       |      |            |            |
-|              |            |       |      |            |            |
-|              |            |       |      |            |            |
-|              |            |       |      |            |            |
+| Model        | Resolution  | Panel | Year | Brightness | Lens Shift |
+| ------------ | ----------- | ----- | ---- | ---------- | ---------- |
+| VPL-VW855    |             | SXRD  | 2018 |            |            |
+| VPL-VW555    |             | SXRD  | 2018 |            |            |
+| VPL-VW255    |             | SXRD  | 2018 |            |            |
+| VPL-VW745    |             | SXRD  | 2017 |            |            |
+| VPL-VW245    |             | SXRD  | 2017 |            |            |
+| VPL-VW535    |             | SXRD  | 2016 |            |            |
+| VPL-VW515    |             | SXRD  | 2015 |            |            |
+| VPL-HW60     |             | SXRD  | 2015 |            |            |
+| VPL-HW55ES   |             | SXRD  | 2014 |            |            |
+| VPL-HW35ES   |             | SXRD  | 2014 |            |            |
+| VPL-VW1100ES | 4,096×2,160 | SXRD  | 2013 |            |            |
+| VPL-VW500ES  |             | SXRD  | 2013 |            |            |
+| VPL-HW50ES   | 1920×1080   | SXRD  | 2012 | 1700       | Y          |
+| VPL-VW1000ES | 4,096×2,160 | SXRD  | 2011 |            |            |
+| VPL-VW95ES   |             | SXRD  | 2011 |            |            |
+| VPL-HW30ES   |             | SXRD  | 2011 |            |            |
+|              |             | SXRD  |      |            |            |
+|              |             | SXRD  |      |            |            |
 ## 超短焦点モデル
 ### Panasonic
 
