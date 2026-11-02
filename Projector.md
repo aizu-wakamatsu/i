@@ -27,10 +27,21 @@
 | LP-Z1    | 964×544    | LCD   | 2002 | 700        | Y          |
 | LP-W1000 | １３６６×７６８   | LCD   | 2001 | 1200       |            |
 | LP-A7    | 800×600    | LCD   | 2000 | 500        |            |
-
+### Sony
+| Model     | Resolution | Panel | Year | Brightness | Lens Shift |
+| --------- | ---------- | ----- | ---- | ---------- | ---------- |
+| VPL-VW855 |            |       |      |            |            |
+| VPL-VW555 |            |       |      |            |            |
+| VPL-VW255 |            |       |      |            |            |
+| VPL-VW745 |            |       |      |            |            |
+| VPL-VW245 |            |       |      |            |            |
 ## 超短焦点モデル
 ### Panasonic
 
 | Model                                                             | Resolution | Panel | Year | Brightness |
 | ----------------------------------------------------------------- | ---------- | ----- | ---- | ---------- |
 | [TH-100FP1](https://panasonic.jp/theater/products/TH-100FP1.html) | 1920×1080  | DLP   | 2019 | 2700       |
+### Sony
+| Model      | Resolution | Panel | Year | Brightness | Lens Shift |
+| ---------- | ---------- | ----- | ---- | ---------- | ---------- |
+| VPL-VZ1000 |            |       |      | 25         |            |
