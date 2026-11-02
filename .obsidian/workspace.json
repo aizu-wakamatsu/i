@@ -75,9 +75,21 @@
               "icon": "lucide-file",
               "title": "Projector"
             }
+          },
+          {
+            "id": "4a75c981b79a9322",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.15.0"
+              },
+              "icon": "lucide-book-up",
+              "title": "リリースノート 1.15.0"
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -249,7 +261,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4823ce589f47c224",
+  "active": "4a75c981b79a9322",
   "lastOpenFiles": [
     "Projector.md",
     "crosshair8i.png",
