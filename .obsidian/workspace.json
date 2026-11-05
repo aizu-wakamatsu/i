@@ -96,12 +96,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "VGP.md",
+                "file": "VGP_proj.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "VGP"
+              "title": "VGP_proj"
             }
           }
         ],
@@ -279,8 +279,9 @@
   },
   "active": "8f997a6a3565def5",
   "lastOpenFiles": [
+    "VGP_display.md",
+    "VGP_proj.md",
     "Projector.md",
-    "VGP.md",
     "crosshair8i.png",
     "crosshair8x.jpg",
     "crosshair8x.jpg.crdownload",
@@ -325,7 +326,6 @@
     "ntwkx/名前・アドレス解決/DNS.md",
     "ntwkx/名前・アドレス解決/ARP.md",
     "ntwkx/FabricPath・TRILL.md",
-    "ntwkx/HTTP.md",
-    "ntwkx/ICMP.md"
+    "ntwkx/HTTP.md"
   ]
 }
