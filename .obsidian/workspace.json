@@ -94,17 +94,14 @@
             "id": "8f997a6a3565def5",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Intel Core.canvas",
-                "viewState": {
-                  "x": -1440,
-                  "y": 3662,
-                  "zoom": -4
-                }
+                "file": "製品情報/Full HD Projector.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Intel Core"
+              "icon": "lucide-file",
+              "title": "Full HD Projector"
             }
           }
         ],
@@ -282,39 +279,40 @@
   },
   "active": "8f997a6a3565def5",
   "lastOpenFiles": [
+    "製品情報/Intel Core.canvas",
+    "製品情報/ROG CROSSHAIR.md",
+    "製品情報/DLA-HD1.png",
+    "製品情報/Full HD Projector.md",
+    "ntwkx/アーラン.md",
+    "製品情報",
+    "自宅.md",
+    "製品情報/VIERA.canvas",
     "VGP_proj.md",
     "VGP_display.md",
+    "画像/Pasted image 20260902223413.png",
+    "画像/crosshair1.jpg",
+    "Aruba.md",
+    "画像",
     "Projector.md",
-    "crosshair8i.png",
-    "crosshair8x.jpg",
+    "画像/crosshair8i.png",
+    "画像/crosshair8x.jpg",
     "crosshair8x.jpg.crdownload",
-    "crosshair8d.jpg",
+    "画像/crosshair8d.jpg",
     "crosshair8d.jpg.crdownload",
-    "crosshair8i.jpg",
+    "画像/crosshair8i.jpg",
     "crosshair8i.jpg.crdownload",
-    "crosshair8f.jpg",
+    "画像/crosshair8f.jpg",
     "crosshair8f.jpg.crdownload",
     "crosshair6x.jpg.~tmp",
     "crosshair6h.jpg.~tmp",
-    "crosshair6h.png",
+    "画像/crosshair6h.png",
     "crosshair7hw.png",
-    "crosshair7h.png",
-    "crosshair6hw.png",
     "crosshair5ft.jpg.~tmp",
     "crosshair5f.jpg.~tmp",
-    "crosshair2f.jpg.~tmp",
-    "crosshair1.jpg.~tmp",
-    "crosshair8hw.jpg",
     "README.md",
-    "ROG CROSSHAIR.md",
-    "VIERA.canvas",
-    "Intel Core.canvas",
-    "無題のファイル 1.md",
     "TV.md",
-    "Aruba.md",
     "日記/11月.md",
     "日記/９月.md",
-    "自宅.md",
     "日記/12月.md",
     "日記/10月.md",
     "conflict-files-obsidian-git.md",
@@ -327,8 +325,6 @@
     "日記/2月.md",
     "ntwkx/名前・アドレス解決/RARP.md",
     "ntwkx/名前・アドレス解決/DNS.md",
-    "ntwkx/名前・アドレス解決/ARP.md",
-    "ntwkx/FabricPath・TRILL.md",
-    "ntwkx/HTTP.md"
+    "ntwkx/名前・アドレス解決/ARP.md"
   ]
 }
