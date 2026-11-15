@@ -3,5 +3,6 @@
   "accentColor": "#5cf55f",
   "cssTheme": "Primary",
   "textFontFamily": "BIZ UDP明朝",
-  "nativeMenus": true
+  "nativeMenus": true,
+  "showRibbon": true
 }
